@@ -8003,200 +8003,6 @@
     <STANDARD_PRICE>449.10</STANDARD_PRICE>
     </SHOPITEM>
   <SHOPITEM>
-    <EXTERNAL_CODE>266</EXTERNAL_CODE>
-    <NAME>Alchymisté: Královský golem – rozšíření</NAME>
-    <PRICE>519.92</PRICE>
-    <PURCHASE_PRICE>524.24</PURCHASE_PRICE>
-    <EAN>8594156310387</EAN>
-    <DESCRIPTION>V poslední době si ustavičně kladu otázku, nad čím že teď vlastně kolegové bádají. Celé týdny se zavírají v laboratořích a ven vycházejí prakticky jen za účelem utajené návštěvy palácové knihovny. Snaží se také přijít na kloub králově hádance? Naivkové! Autorem tajných formulí, které v královské encyklopedii tak náruživě studují, jsem přeci já! Jedině já znám pravou podstatu kořene mandragory a já oživím králova golema! Královský golem obsahuje pravidla a komponenty pro 4 nové moduly, které lze libovolně kombinovat: Pomocí Stipendia mohou hráči ovlivnit vstupní zdroje svých laboratoří. Rozšíření Máme napilno ozvláštní každé kolo nabídkou nových odměn. Využijte Královskou encyklopedii jako neotřelý publikační kanál. A v Projektu &amp;bdquo;Golem&amp;ldquo; jsou hráči postaveni před nelehký úkol magického oživení hliněné kreatury.kompomenty:&amp;bull; pravidla hry &amp;bull; nový plán gamemastera &amp;bull; 12 žetonů knih &amp;bull; 20 karet stipendia &amp;bull; karta artefaktu Replikátor &amp;bull; 18 pořadovníků &amp;bull; plán encyklopedie &amp;bull; destička encyklopedického grantu &amp;bull; 16 žetonů přísad &amp;bull; 8 pečetí (2 od každé barvy) &amp;bull; plán rozšíření &amp;bull; destička podpultových artefaktů &amp;bull; plán výzkumu golema &amp;bull; přehled bodování &amp;bull; destička Hlášení o pokroku &amp;bull; 3 destičky konferencí &amp;bull; 8 destiček nálady Jeho Veličenstva &amp;bull; 4 karty přízně Dvořan &amp;bull; karta artefaktu Královská pečeť &amp;bull; karta artefaktu &amp;bull; 16 žetonů privilegia &amp;bull; 24 žetonů hlášení (6 od každé barvy) &amp;bull; 4 plastové baňky (1 od každé barvy)</DESCRIPTION>
-    <IMAGES>
-      <IMAGE>https://d2nh83hfsroc1i.cloudfront.net/wp-content/uploads/2020/03/05093855/7nhn9n1j2man7m3n5j8m.jpg</IMAGE>
-      </IMAGES>
-    <LOGISTIC>
-      <WEIGHT>1.18</WEIGHT>
-      <HEIGHT>298</HEIGHT>
-      <WIDTH>298</WIDTH>
-      <DEPTH>46</DEPTH>
-      </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Rok vydání (v češtině):</NAME>
-        <VALUE>2016</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>4</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>14+</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>120+ minut</VALUE>
-        </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Jazyk pravidel</NAME>
-        <VALUE>Čeština</VALUE>
-        </INFORMATION_PARAMETER>
-      </INFORMATION_PARAMETERS>
-    <VISIBILITY>hidden</VISIBILITY>
-    <PRICELISTS>
-      <PRICELIST>
-        <TITLE>Ceník - pokladna</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>577.69</PRICE>
-        <STANDARD_PRICE>577.69</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>VO ceník (40%)</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>577.69</PRICE>
-        <STANDARD_PRICE>577.69</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>Velkoobchodní ceník</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>577.69</PRICE>
-        <STANDARD_PRICE>577.69</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>Velkoobchodní ceník SK</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>577.69</PRICE>
-        <STANDARD_PRICE>577.69</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>DMOC</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>577.69</PRICE>
-        <STANDARD_PRICE>577.69</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>TOP ceník</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>478.51</PRICE>
-        <STANDARD_PRICE>478.51</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>478.51</PRICE>
-        <STANDARD_PRICE>478.51</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      <PRICELIST>
-        <TITLE>VIP ceník</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>461.98</PRICE>
-        <STANDARD_PRICE>461.98</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-        </PRICELIST>
-      </PRICELISTS>
-    <STANDARD_PRICE>629.10</STANDARD_PRICE>
-    </SHOPITEM>
-  <SHOPITEM>
     <EXTERNAL_CODE>269</EXTERNAL_CODE>
     <NAME>Mars: Teraformace</NAME>
     <PRICE>1189.34</PRICE>
@@ -15936,9 +15742,9 @@
       <WIDTH>280</WIDTH>
       <DEPTH>15</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
@@ -26746,9 +26552,9 @@
       <WIDTH>90</WIDTH>
       <DEPTH>13</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
@@ -26940,9 +26746,9 @@
       <WIDTH>90</WIDTH>
       <DEPTH>13</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
@@ -32796,9 +32602,9 @@
       <WIDTH>100</WIDTH>
       <DEPTH>1</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
@@ -40084,9 +39890,9 @@
       <WIDTH>263</WIDTH>
       <DEPTH>65</DEPTH>
       </LOGISTIC>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
