@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sklad timestamp="2026-08-24 11:15:20">
+<sklad timestamp="2026-09-22 23:25:10">
 	<produkt>
 		<cislo>2TCO01CZ</cislo>
 		<ean>8437022321240</ean>
@@ -67,7 +67,7 @@
 	</produkt>
 	<produkt>
 		<cislo>AS7DUMECS03</cislo>
-		<ean></ean>
+		<ean>5407007460717</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -88,7 +88,7 @@
 	<produkt>
 		<cislo>ASACSDIX01CSSK</cislo>
 		<ean>3558380115083</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASACSDOB01CS</cislo>
@@ -108,7 +108,7 @@
 	<produkt>
 		<cislo>ASBRB031CZ</cislo>
 		<ean>5025822342027</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN01CZ</cislo>
@@ -118,7 +118,7 @@
 	<produkt>
 		<cislo>ASBRBN01SK</cislo>
 		<ean>5025822221056</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN02CZ</cislo>
@@ -129,6 +129,11 @@
 		<cislo>ASBRBN02CZ@305</cislo>
 		<ean>5025822242273</ean>
 		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>ASBRBN02SK</cislo>
+		<ean>5025822221278</ean>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN03SK</cislo>
@@ -158,12 +163,12 @@
 	<produkt>
 		<cislo>ASBRBN07CZ</cislo>
 		<ean>5025822142078</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN07SK</cislo>
 		<ean>5025822121073</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN08CZ</cislo>
@@ -198,7 +203,7 @@
 	<produkt>
 		<cislo>ASBRBN10CZ</cislo>
 		<ean>5025822242105</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN10CZ@305</cislo>
@@ -233,7 +238,7 @@
 	<produkt>
 		<cislo>ASBRBN13CZ</cislo>
 		<ean>5025822242617</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASBRBN13CZ@305</cislo>
@@ -278,7 +283,7 @@
 	<produkt>
 		<cislo>ASCORDIC01CSSK</cislo>
 		<ean>3558380114307</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASCORHP01CSSK</cislo>
@@ -313,7 +318,7 @@
 	<produkt>
 		<cislo>ASCSPLMA01CZ</cislo>
 		<ean>3558380080596</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>70</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASCSPLMA01CZ@305</cislo>
@@ -456,11 +461,6 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>ASDOB4C08FC</cislo>
-		<ean></ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>ASDOBAP08CSSK</cislo>
 		<ean>3558380117506</ean>
 		<dostupnost>100</dostupnost>
@@ -521,6 +521,11 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>ASDOBFRO07ML1</cislo>
+		<ean>3558387019681</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>ASDOBGI0101ML2</cislo>
 		<ean>3558380128212</ean>
 		<dostupnost>100</dostupnost>
@@ -536,6 +541,11 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>ASDOBHP08SKCS</cislo>
+		<ean>3558387015089</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>ASDOBKDH07CSSK</cislo>
 		<ean>3558387005912</ean>
 		<dostupnost>0</dostupnost>
@@ -548,7 +558,7 @@
 	<produkt>
 		<cislo>ASDOBONP07ML1</cislo>
 		<ean>3558387002034</ean>
-		<dostupnost>39</dostupnost>
+		<dostupnost>76</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASDOBPP07CSSKRO</cislo>
@@ -568,7 +578,7 @@
 	<produkt>
 		<cislo>ASDOBSPI07ML</cislo>
 		<ean>3558387000290</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASDOBSPO07ML</cislo>
@@ -621,8 +631,8 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>ASDSA01CSSK</cislo>
-		<ean>3558380106067</ean>
+		<cislo>ASDOTGM30201CS</cislo>
+		<ean>3558387018981</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -643,7 +653,7 @@
 	<produkt>
 		<cislo>ASFAICS01</cislo>
 		<ean>5425016928066</ean>
-		<dostupnost>1</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASFCCS01</cislo>
@@ -683,12 +693,12 @@
 	<produkt>
 		<cislo>ASLIBDIXBO0101CSSK</cislo>
 		<ean>3558387008388</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASLIBDIXBO0201CSSK</cislo>
 		<ean>3558387008487</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASLIBMYST01CZ</cislo>
@@ -733,7 +743,7 @@
 	<produkt>
 		<cislo>ASLIBTLBO01CSSK</cislo>
 		<ean>3558387007879</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>97</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASLIBTT0101CSSK</cislo>
@@ -758,7 +768,7 @@
 	<produkt>
 		<cislo>ASMCMYMGA0101CSSK</cislo>
 		<ean>3558380140139</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASMDS002CZ</cislo>
@@ -768,7 +778,7 @@
 	<produkt>
 		<cislo>ASMEKEK01CZ</cislo>
 		<ean>0810083040417</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASMEKEK02CZ</cislo>
@@ -813,7 +823,7 @@
 	<produkt>
 		<cislo>ASMEKIEK14CSSK</cislo>
 		<ean>0810171414229</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASMEKIEK15ACSSK</cislo>
@@ -848,7 +858,7 @@
 	<produkt>
 		<cislo>ASMEKISALM01CSSK</cislo>
 		<ean>0810083044002</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASMEKITTA01</cislo>
@@ -1093,7 +1103,7 @@
 	<produkt>
 		<cislo>ASTEEHTS01CZ</cislo>
 		<ean>3558380083597</ean>
-		<dostupnost>51</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASTEETTK01CZSK</cislo>
@@ -1108,11 +1118,6 @@
 	<produkt>
 		<cislo>ASTEEUU02CSSK@305</cislo>
 		<ean>3558380096894</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>ASTEEUU03CSSK</cislo>
-		<ean>3558380093329</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -1171,24 +1176,14 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>ASTOPHPRTCZ1</cislo>
-		<ean>8595680302305</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>ASTOYCS01</cislo>
 		<ean>5425016928578</ean>
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>ASTOYCS01@305</cislo>
-		<ean>5425016928578</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>ASTOYLCCS01</cislo>
 		<ean>5407007460298</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASUNU01</cislo>
@@ -1233,7 +1228,7 @@
 	<produkt>
 		<cislo>ASZMGLLS0101CZ</cislo>
 		<ean>0841333131326</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ASZMGLLU0101CZ</cislo>
@@ -1248,7 +1243,7 @@
 	<produkt>
 		<cislo>BMDUNE05CZ</cislo>
 		<ean>9781638841395</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>BMDUNE06CZ</cislo>
@@ -1256,58 +1251,8 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>BND2850164</cislo>
-		<ean>810199500294</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2855985</cislo>
-		<ean>810199500928</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2855986</cislo>
-		<ean>810199500959</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2855987</cislo>
-		<ean>810199500980</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2855988</cislo>
-		<ean>810199501079</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2855989</cislo>
-		<ean>810199501017</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2856000</cislo>
-		<ean>810199501048</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2863367</cislo>
-		<ean>810199501963</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2863369</cislo>
-		<ean>810199502014</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>BND2863370</cislo>
 		<ean>810199502205</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2863371</cislo>
-		<ean>810199502229</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -1318,16 +1263,6 @@
 	<produkt>
 		<cislo>BND2866723</cislo>
 		<ean>810199502830</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2868788</cislo>
-		<ean>810199502410</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>BND2868789</cislo>
-		<ean>810199502441</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -1393,6 +1328,36 @@
 	<produkt>
 		<cislo>BND2903432</cislo>
 		<ean>810199507668</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>BND2904570</cislo>
+		<ean>810199507712</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>BND2904571</cislo>
+		<ean>810199507743</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>BND2904572</cislo>
+		<ean>810199507774</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>BND2904573</cislo>
+		<ean>810199507804</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>BND2904574</cislo>
+		<ean>810199507835</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>BND2904577</cislo>
+		<ean>810199507866</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -1478,7 +1443,7 @@
 	<produkt>
 		<cislo>BRG006CZ</cislo>
 		<ean>8595680303203</ean>
-		<dostupnost>16</dostupnost>
+		<dostupnost>10</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>BRG006CZ@305</cislo>
@@ -1523,7 +1488,7 @@
 	<produkt>
 		<cislo>CMNANK001CZ</cislo>
 		<ean>8595680301568</ean>
-		<dostupnost>23</dostupnost>
+		<dostupnost>10</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>CMNANK001CZ@305</cislo>
@@ -1536,11 +1501,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>CMNBBE001CZ@305</cislo>
-		<ean>8595680301315</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>CMNBBE002</cislo>
 		<ean>8595680302350</ean>
 		<dostupnost>100</dostupnost>
@@ -1548,7 +1508,7 @@
 	<produkt>
 		<cislo>CMNBBE004</cislo>
 		<ean>8595680302367</ean>
-		<dostupnost>46</dostupnost>
+		<dostupnost>35</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>CMNBBE004@305</cislo>
@@ -1638,7 +1598,7 @@
 	<produkt>
 		<cislo>CMNMKD001CZ</cislo>
 		<ean>8595680300912</ean>
-		<dostupnost>75</dostupnost>
+		<dostupnost>73</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>CMNMNL001</cislo>
@@ -1716,11 +1676,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>CMNZCDPR114</cislo>
-		<ean>8595680302770</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>CMNZCDPR115</cislo>
 		<ean>8595680302787</ean>
 		<dostupnost>0</dostupnost>
@@ -1768,7 +1723,7 @@
 	<produkt>
 		<cislo>DOW722802</cislo>
 		<ean>824968228029</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>1</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>DOW722802@305</cislo>
@@ -1836,11 +1791,6 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>DOW732801N@305</cislo>
-		<ean>824968328019</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>DOW912801CZ</cislo>
 		<ean>824968128015</ean>
 		<dostupnost>0</dostupnost>
@@ -1863,12 +1813,12 @@
 	<produkt>
 		<cislo>DOW912851</cislo>
 		<ean>824968128510</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>76</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>DOWSWB0101CSSK</cislo>
 		<ean>3558380129516</ean>
-		<dostupnost>91</dostupnost>
+		<dostupnost>67</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>DOWSWB0101CSSK@305</cislo>
@@ -2038,7 +1988,7 @@
 	<produkt>
 		<cislo>FCIV02CZ</cislo>
 		<ean>8595680301810</ean>
-		<dostupnost>15</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FE0109CZ</cislo>
@@ -2186,11 +2136,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK54328</cislo>
-		<ean>889698543286</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK56352</cislo>
 		<ean>889698563529</ean>
 		<dostupnost>42</dostupnost>
@@ -2218,7 +2163,7 @@
 	<produkt>
 		<cislo>FK61549</cislo>
 		<ean>889698615495</ean>
-		<dostupnost>18</dostupnost>
+		<dostupnost>17</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK61550</cislo>
@@ -2328,12 +2273,12 @@
 	<produkt>
 		<cislo>FK67327</cislo>
 		<ean>889698673273</ean>
-		<dostupnost>52</dostupnost>
+		<dostupnost>47</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK67329</cislo>
 		<ean>889698673297</ean>
-		<dostupnost>8</dostupnost>
+		<dostupnost>6</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK67329@305</cislo>
@@ -2371,43 +2316,8 @@
 		<dostupnost>1</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK67565</cislo>
-		<ean>889698675659</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK67566</cislo>
-		<ean>889698675666</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK67567</cislo>
-		<ean>889698675673</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK67568</cislo>
 		<ean>889698675680</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK67569</cislo>
-		<ean>889698675697</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK67570</cislo>
-		<ean>889698675703</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK67571</cislo>
-		<ean>889698675710</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK67573</cislo>
-		<ean>889698675734</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -2428,17 +2338,17 @@
 	<produkt>
 		<cislo>FK69078</cislo>
 		<ean>889698690782</ean>
-		<dostupnost>14</dostupnost>
+		<dostupnost>13</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK69079</cislo>
 		<ean>889698690799</ean>
-		<dostupnost>31</dostupnost>
+		<dostupnost>30</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK69081</cislo>
 		<ean>889698690812</ean>
-		<dostupnost>25</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK69084</cislo>
@@ -2448,11 +2358,6 @@
 	<produkt>
 		<cislo>FK69132</cislo>
 		<ean>889698691321</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK69136</cislo>
-		<ean>889698691369</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -2479,16 +2384,6 @@
 		<cislo>FK70569</cislo>
 		<ean>889698705691</ean>
 		<dostupnost>9</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK70570</cislo>
-		<ean>889698705707</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK70570@305</cislo>
-		<ean>889698705707</ean>
-		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK70583</cislo>
@@ -2518,7 +2413,7 @@
 	<produkt>
 		<cislo>FK70925</cislo>
 		<ean>889698709255</ean>
-		<dostupnost>10</dostupnost>
+		<dostupnost>9</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK70927</cislo>
@@ -2528,7 +2423,7 @@
 	<produkt>
 		<cislo>FK70936</cislo>
 		<ean>889698709361</ean>
-		<dostupnost>27</dostupnost>
+		<dostupnost>26</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK70976</cislo>
@@ -2536,23 +2431,8 @@
 		<dostupnost>28</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK70976@305</cislo>
-		<ean>889698709767</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK70977</cislo>
-		<ean>889698709774</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK70978</cislo>
 		<ean>889698709781</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK71532</cislo>
-		<ean>889698715324</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -2653,17 +2533,7 @@
 	<produkt>
 		<cislo>FK72192</cislo>
 		<ean>889698721929</ean>
-		<dostupnost>31</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK72325</cislo>
-		<ean>889698723251</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK72327</cislo>
-		<ean>889698723275</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>30</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK72367</cislo>
@@ -2683,11 +2553,6 @@
 	<produkt>
 		<cislo>FK72421@305</cislo>
 		<ean>889698724210</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK72433</cislo>
-		<ean>889698724333</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -2761,16 +2626,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK72940</cislo>
-		<ean>889698729406</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK72948</cislo>
-		<ean>889698729482</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK73387</cislo>
 		<ean>889698733878</ean>
 		<dostupnost>3</dostupnost>
@@ -2778,7 +2633,7 @@
 	<produkt>
 		<cislo>FK73388</cislo>
 		<ean>889698733885</ean>
-		<dostupnost>7</dostupnost>
+		<dostupnost>5</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK73389</cislo>
@@ -2816,11 +2671,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK74217</cislo>
-		<ean>889698742177</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK74224</cislo>
 		<ean>889698742245</ean>
 		<dostupnost>0</dostupnost>
@@ -2828,22 +2678,17 @@
 	<produkt>
 		<cislo>FK74227</cislo>
 		<ean>889698742276</ean>
-		<dostupnost>16</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK74227@305</cislo>
-		<ean>889698742276</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>15</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK74228</cislo>
 		<ean>889698742283</ean>
-		<dostupnost>20</dostupnost>
+		<dostupnost>19</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK74229</cislo>
 		<ean>889698742290</ean>
-		<dostupnost>35</dostupnost>
+		<dostupnost>34</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK74343</cislo>
@@ -2873,31 +2718,6 @@
 	<produkt>
 		<cislo>FK74591</cislo>
 		<ean>889698745918</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK74628</cislo>
-		<ean>889698746281</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK74629</cislo>
-		<ean>889698746298</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK74630</cislo>
-		<ean>889698746304</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK74631</cislo>
-		<ean>889698746311</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK74632</cislo>
-		<ean>889698746328</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -3023,16 +2843,11 @@
 	<produkt>
 		<cislo>FK76007</cislo>
 		<ean>889698760072</ean>
-		<dostupnost>8</dostupnost>
+		<dostupnost>6</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK76029</cislo>
 		<ean>889698760294</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK76031</cislo>
-		<ean>889698760317</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -3078,7 +2893,7 @@
 	<produkt>
 		<cislo>FK78649</cislo>
 		<ean>889698786492</ean>
-		<dostupnost>5</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK78810</cislo>
@@ -3201,11 +3016,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK83422</cislo>
-		<ean>889698834223</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK83445</cislo>
 		<ean>889698834452</ean>
 		<dostupnost>10</dostupnost>
@@ -3216,14 +3026,9 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK83583</cislo>
-		<ean>889698835831</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK83660</cislo>
 		<ean>889698836609</ean>
-		<dostupnost>97</dostupnost>
+		<dostupnost>95</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK83852</cislo>
@@ -3238,7 +3043,7 @@
 	<produkt>
 		<cislo>FK83991</cislo>
 		<ean>889698839914</ean>
-		<dostupnost>34</dostupnost>
+		<dostupnost>28</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK84298</cislo>
@@ -3248,11 +3053,6 @@
 	<produkt>
 		<cislo>FK84474</cislo>
 		<ean>889698844741</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK84848</cislo>
-		<ean>889698848480</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -3268,22 +3068,22 @@
 	<produkt>
 		<cislo>FK85707</cislo>
 		<ean>889698857079</ean>
-		<dostupnost>38</dostupnost>
+		<dostupnost>37</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK85708</cislo>
 		<ean>889698857086</ean>
-		<dostupnost>40</dostupnost>
+		<dostupnost>38</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK85709</cislo>
 		<ean>889698857093</ean>
-		<dostupnost>36</dostupnost>
+		<dostupnost>33</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK85710</cislo>
 		<ean>889698857109</ean>
-		<dostupnost>41</dostupnost>
+		<dostupnost>39</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK86071</cislo>
@@ -3311,33 +3111,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK86252</cislo>
-		<ean>889698862523</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86274</cislo>
-		<ean>889698862745</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK86362</cislo>
 		<ean>889698863629</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86425</cislo>
-		<ean>889698864251</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86426</cislo>
-		<ean>889698864268</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86427</cislo>
-		<ean>889698864275</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -3378,7 +3153,7 @@
 	<produkt>
 		<cislo>FK86531</cislo>
 		<ean>889698865319</ean>
-		<dostupnost>22</dostupnost>
+		<dostupnost>16</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK86565</cislo>
@@ -3393,16 +3168,6 @@
 	<produkt>
 		<cislo>FK86568</cislo>
 		<ean>889698865685</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86578</cislo>
-		<ean>889698865784</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86579</cislo>
-		<ean>889698865791</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -3446,41 +3211,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK86735</cislo>
-		<ean>889698867351</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86736</cislo>
-		<ean>889698867368</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86737</cislo>
-		<ean>889698867375</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86738</cislo>
-		<ean>889698867382</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86739</cislo>
-		<ean>889698867399</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86740</cislo>
-		<ean>889698867405</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK86741</cislo>
-		<ean>889698867412</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK86774</cislo>
 		<ean>889698867740</ean>
 		<dostupnost>0</dostupnost>
@@ -3513,7 +3243,7 @@
 	<produkt>
 		<cislo>FK87228</cislo>
 		<ean>889698872287</ean>
-		<dostupnost>68</dostupnost>
+		<dostupnost>67</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK87236</cislo>
@@ -3549,11 +3279,6 @@
 		<cislo>FK88040</cislo>
 		<ean>889698880404</ean>
 		<dostupnost>8</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK88059</cislo>
-		<ean>889698880596</ean>
-		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK88210</cislo>
@@ -3621,11 +3346,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK88545</cislo>
-		<ean>889698885454</ean>
-		<dostupnost>4</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK88546</cislo>
 		<ean>889698885461</ean>
 		<dostupnost>0</dostupnost>
@@ -3648,7 +3368,7 @@
 	<produkt>
 		<cislo>FK88816</cislo>
 		<ean>889698888165</ean>
-		<dostupnost>20</dostupnost>
+		<dostupnost>12</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK88984</cislo>
@@ -3691,11 +3411,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK89370</cislo>
-		<ean>889698893701</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK90121</cislo>
 		<ean>889698901215</ean>
 		<dostupnost>0</dostupnost>
@@ -3718,7 +3433,7 @@
 	<produkt>
 		<cislo>FK90241</cislo>
 		<ean>889698902410</ean>
-		<dostupnost>14</dostupnost>
+		<dostupnost>9</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK90250</cislo>
@@ -3896,14 +3611,9 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK90531</cislo>
-		<ean>889698905312</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK90562</cislo>
 		<ean>889698905626</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>28</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK90599</cislo>
@@ -3938,7 +3648,7 @@
 	<produkt>
 		<cislo>FK91624</cislo>
 		<ean>889698916240</ean>
-		<dostupnost>14</dostupnost>
+		<dostupnost>13</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK91629</cislo>
@@ -4006,11 +3716,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK91878</cislo>
-		<ean>889698918787</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK91902</cislo>
 		<ean>889698919029</ean>
 		<dostupnost>0</dostupnost>
@@ -4018,11 +3723,6 @@
 	<produkt>
 		<cislo>FK91953</cislo>
 		<ean>889698919531</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK91957</cislo>
-		<ean>889698919579</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4061,11 +3761,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK92013</cislo>
-		<ean>889698920131</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK92028</cislo>
 		<ean>889698920285</ean>
 		<dostupnost>0</dostupnost>
@@ -4083,16 +3778,6 @@
 	<produkt>
 		<cislo>FK92210</cislo>
 		<ean>889698922104</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK92226</cislo>
-		<ean>889698922265</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK92307</cislo>
-		<ean>889698923071</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4128,11 +3813,6 @@
 	<produkt>
 		<cislo>FK92417</cislo>
 		<ean>889698924177</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK92593</cislo>
-		<ean>889698925938</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4216,11 +3896,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK92917</cislo>
-		<ean>889698929172</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK92940</cislo>
 		<ean>889698929400</ean>
 		<dostupnost>0</dostupnost>
@@ -4246,28 +3921,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK92968</cislo>
-		<ean>889698929684</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK92982</cislo>
-		<ean>889698929820</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK92984</cislo>
 		<ean>889698929844</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93005</cislo>
-		<ean>889698930055</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93007</cislo>
-		<ean>889698930079</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4333,31 +3988,6 @@
 	<produkt>
 		<cislo>FK93119</cislo>
 		<ean>889698931199</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93120</cislo>
-		<ean>889698931205</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93121</cislo>
-		<ean>889698931212</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93122</cislo>
-		<ean>889698931229</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93123</cislo>
-		<ean>889698931236</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93124</cislo>
-		<ean>889698931243</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4576,11 +4206,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93291</cislo>
-		<ean>889698932912</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93292</cislo>
 		<ean>889698932929</ean>
 		<dostupnost>0</dostupnost>
@@ -4588,11 +4213,6 @@
 	<produkt>
 		<cislo>FK93293</cislo>
 		<ean>889698932936</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93294</cislo>
-		<ean>889698932943</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4613,11 +4233,6 @@
 	<produkt>
 		<cislo>FK93312</cislo>
 		<ean>889698933124</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93313</cislo>
-		<ean>889698933131</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4706,38 +4321,13 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93348</cislo>
-		<ean>889698933483</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93349</cislo>
-		<ean>889698933490</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93350</cislo>
 		<ean>889698933506</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93351</cislo>
-		<ean>889698933513</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93352</cislo>
-		<ean>889698933520</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93353</cislo>
 		<ean>889698933537</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93354</cislo>
-		<ean>889698933544</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4758,16 +4348,6 @@
 	<produkt>
 		<cislo>FK93373</cislo>
 		<ean>889698933735</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93382</cislo>
-		<ean>889698933827</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93383</cislo>
-		<ean>889698933834</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4796,11 +4376,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93410</cislo>
-		<ean>889698934107</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93413</cislo>
 		<ean>889698934138</ean>
 		<dostupnost>0</dostupnost>
@@ -4816,11 +4391,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93442</cislo>
-		<ean>889698934428</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93443</cislo>
 		<ean>889698934435</ean>
 		<dostupnost>0</dostupnost>
@@ -4828,11 +4398,6 @@
 	<produkt>
 		<cislo>FK93447</cislo>
 		<ean>889698934473</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93448</cislo>
-		<ean>889698934480</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -4936,31 +4501,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93525</cislo>
-		<ean>889698935258</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93526</cislo>
-		<ean>889698935265</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93527</cislo>
-		<ean>889698935272</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93528</cislo>
-		<ean>889698935289</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93529</cislo>
-		<ean>889698935296</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93530</cislo>
 		<ean>889698935302</ean>
 		<dostupnost>0</dostupnost>
@@ -5013,16 +4553,6 @@
 	<produkt>
 		<cislo>FK93565</cislo>
 		<ean>889698935654</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93568</cislo>
-		<ean>889698935685</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93611</cislo>
-		<ean>889698936118</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5081,11 +4611,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93676</cislo>
-		<ean>889698936767</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93680</cislo>
 		<ean>889698936804</ean>
 		<dostupnost>0</dostupnost>
@@ -5126,11 +4651,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93689</cislo>
-		<ean>889698936897</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK93697</cislo>
 		<ean>889698936972</ean>
 		<dostupnost>0</dostupnost>
@@ -5168,11 +4688,6 @@
 	<produkt>
 		<cislo>FK93715</cislo>
 		<ean>889698937153</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93716</cislo>
-		<ean>889698937160</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5331,21 +4846,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK93996</cislo>
-		<ean>889698939966</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK93997</cislo>
-		<ean>889698939973</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94003</cislo>
-		<ean>889698940030</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94028</cislo>
 		<ean>889698940283</ean>
 		<dostupnost>0</dostupnost>
@@ -5363,42 +4863,7 @@
 	<produkt>
 		<cislo>FK94048</cislo>
 		<ean>889698940481</ean>
-		<dostupnost>11</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94051</cislo>
-		<ean>889698940511</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94052</cislo>
-		<ean>889698940528</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94053</cislo>
-		<ean>889698940535</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94054</cislo>
-		<ean>889698940542</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94055</cislo>
-		<ean>889698940559</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94056</cislo>
-		<ean>889698940566</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94060</cislo>
-		<ean>889698940603</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>9</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FK94061</cislo>
@@ -5411,18 +4876,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94076</cislo>
-		<ean>889698940764</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94086</cislo>
 		<ean>889698940863</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94089</cislo>
-		<ean>889698940894</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5433,11 +4888,6 @@
 	<produkt>
 		<cislo>FK94109</cislo>
 		<ean>889698941099</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94114</cislo>
-		<ean>889698941143</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5571,11 +5021,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94355</cislo>
-		<ean>889698943550</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94414</cislo>
 		<ean>889698944144</ean>
 		<dostupnost>0</dostupnost>
@@ -5598,26 +5043,6 @@
 	<produkt>
 		<cislo>FK94426</cislo>
 		<ean>889698944267</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94467</cislo>
-		<ean>889698944670</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94575</cislo>
-		<ean>889698945752</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94576</cislo>
-		<ean>889698945769</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94577</cislo>
-		<ean>889698945776</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5661,11 +5086,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94691</cislo>
-		<ean>889698946919</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94692</cislo>
 		<ean>889698946926</ean>
 		<dostupnost>0</dostupnost>
@@ -5686,11 +5106,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94707</cislo>
-		<ean>889698947077</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94713</cislo>
 		<ean>889698947138</ean>
 		<dostupnost>0</dostupnost>
@@ -5701,18 +5116,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94731</cislo>
-		<ean>889698947312</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94732</cislo>
 		<ean>889698947329</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94733</cislo>
-		<ean>889698947336</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5728,11 +5133,6 @@
 	<produkt>
 		<cislo>FK94737</cislo>
 		<ean>889698947374</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94740</cislo>
-		<ean>889698947404</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5763,11 +5163,6 @@
 	<produkt>
 		<cislo>FK94762</cislo>
 		<ean>889698947626</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94767</cislo>
-		<ean>889698947671</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5841,11 +5236,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94820</cislo>
-		<ean>889698948203</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94825</cislo>
 		<ean>889698948258</ean>
 		<dostupnost>0</dostupnost>
@@ -5901,33 +5291,13 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94867</cislo>
-		<ean>889698948678</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94872</cislo>
 		<ean>889698948722</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK94873</cislo>
-		<ean>889698948739</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK94874</cislo>
 		<ean>889698948746</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94875</cislo>
-		<ean>889698948753</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK94881</cislo>
-		<ean>889698948814</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5941,23 +5311,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95104</cislo>
-		<ean>889698951043</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95105</cislo>
-		<ean>889698951050</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95108</cislo>
 		<ean>889698951081</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95115</cislo>
-		<ean>889698951159</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -5986,28 +5341,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95209</cislo>
-		<ean>889698952095</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95210</cislo>
-		<ean>889698952101</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95211</cislo>
-		<ean>889698952118</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95217</cislo>
 		<ean>889698952170</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95248</cislo>
-		<ean>889698952484</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6018,21 +5353,6 @@
 	<produkt>
 		<cislo>FK95267</cislo>
 		<ean>889698952675</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95295</cislo>
-		<ean>889698952958</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95296</cislo>
-		<ean>889698952965</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95387</cislo>
-		<ean>889698953870</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6058,26 +5378,6 @@
 	<produkt>
 		<cislo>FK95473</cislo>
 		<ean>889698954730</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95480</cislo>
-		<ean>889698954808</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95481</cislo>
-		<ean>889698954815</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95482</cislo>
-		<ean>889698954822</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95483</cislo>
-		<ean>889698954839</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6136,11 +5436,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95804</cislo>
-		<ean>889698958042</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95805</cislo>
 		<ean>889698958059</ean>
 		<dostupnost>0</dostupnost>
@@ -6196,23 +5491,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95877</cislo>
-		<ean>889698958776</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95878</cislo>
-		<ean>889698958783</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95897</cislo>
 		<ean>889698958974</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95898</cislo>
-		<ean>889698958981</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6221,33 +5501,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95900</cislo>
-		<ean>889698959001</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95909</cislo>
 		<ean>889698959094</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95910</cislo>
-		<ean>889698959100</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95940</cislo>
-		<ean>889698959407</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95941</cislo>
-		<ean>889698959414</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95942</cislo>
-		<ean>889698959421</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6273,21 +5528,6 @@
 	<produkt>
 		<cislo>FK95947</cislo>
 		<ean>889698959476</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95948</cislo>
-		<ean>889698959483</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95949</cislo>
-		<ean>889698959490</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95950</cislo>
-		<ean>889698959506</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6331,36 +5571,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95959</cislo>
-		<ean>889698959599</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95960</cislo>
-		<ean>889698959605</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95961</cislo>
-		<ean>889698959612</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95962</cislo>
-		<ean>889698959629</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95964</cislo>
-		<ean>889698959643</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95965</cislo>
-		<ean>889698959650</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95970</cislo>
 		<ean>889698959704</ean>
 		<dostupnost>0</dostupnost>
@@ -6376,16 +5586,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK95975</cislo>
-		<ean>889698959759</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95976</cislo>
-		<ean>889698959766</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK95977</cislo>
 		<ean>889698959773</ean>
 		<dostupnost>0</dostupnost>
@@ -6393,26 +5593,6 @@
 	<produkt>
 		<cislo>FK95978</cislo>
 		<ean>889698959780</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95979</cislo>
-		<ean>889698959797</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95980</cislo>
-		<ean>889698959803</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95981</cislo>
-		<ean>889698959810</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK95982</cislo>
-		<ean>889698959827</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6506,26 +5686,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96001</cislo>
-		<ean>889698960014</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96002</cislo>
-		<ean>889698960021</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96003</cislo>
-		<ean>889698960038</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96004</cislo>
-		<ean>889698960045</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96005</cislo>
 		<ean>889698960052</ean>
 		<dostupnost>0</dostupnost>
@@ -6538,26 +5698,6 @@
 	<produkt>
 		<cislo>FK96007</cislo>
 		<ean>889698960076</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96008</cislo>
-		<ean>889698960083</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96009</cislo>
-		<ean>889698960090</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96010</cislo>
-		<ean>889698960106</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96011</cislo>
-		<ean>889698960113</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6576,28 +5716,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96016</cislo>
-		<ean>889698960168</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96017</cislo>
-		<ean>889698960175</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96018</cislo>
-		<ean>889698960182</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96019</cislo>
 		<ean>889698960199</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96020</cislo>
-		<ean>889698960205</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6608,36 +5728,6 @@
 	<produkt>
 		<cislo>FK96022</cislo>
 		<ean>889698960229</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96023</cislo>
-		<ean>889698960236</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96024</cislo>
-		<ean>889698960243</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96025</cislo>
-		<ean>889698960250</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96026</cislo>
-		<ean>889698960267</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96027</cislo>
-		<ean>889698960274</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96028</cislo>
-		<ean>889698960281</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6666,128 +5756,13 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96035</cislo>
-		<ean>889698960359</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96036</cislo>
-		<ean>889698960366</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96037</cislo>
-		<ean>889698960373</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96038</cislo>
-		<ean>889698960380</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96039</cislo>
 		<ean>889698960397</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96040</cislo>
-		<ean>889698960403</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96041</cislo>
-		<ean>889698960410</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96042</cislo>
-		<ean>889698960427</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96043</cislo>
-		<ean>889698960434</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96046</cislo>
-		<ean>889698960465</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96047</cislo>
-		<ean>889698960472</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96048</cislo>
-		<ean>889698960489</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96049</cislo>
 		<ean>889698960496</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96058</cislo>
-		<ean>889698960588</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96059</cislo>
-		<ean>889698960595</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96060</cislo>
-		<ean>889698960601</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96061</cislo>
-		<ean>889698960618</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96062</cislo>
-		<ean>889698960625</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96063</cislo>
-		<ean>889698960632</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96064</cislo>
-		<ean>889698960649</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96065</cislo>
-		<ean>889698960656</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96066</cislo>
-		<ean>889698960663</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96067</cislo>
-		<ean>889698960670</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96068</cislo>
-		<ean>889698960687</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96069</cislo>
-		<ean>889698960694</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6823,11 +5798,6 @@
 	<produkt>
 		<cislo>FK96090</cislo>
 		<ean>889698960908</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96091</cislo>
-		<ean>889698960915</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6876,16 +5846,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96101</cislo>
-		<ean>889698961011</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96102</cislo>
-		<ean>889698961028</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96103</cislo>
 		<ean>889698961035</ean>
 		<dostupnost>0</dostupnost>
@@ -6903,36 +5863,6 @@
 	<produkt>
 		<cislo>FK96106</cislo>
 		<ean>889698961066</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96107</cislo>
-		<ean>889698961073</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96108</cislo>
-		<ean>889698961080</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96109</cislo>
-		<ean>889698961097</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96110</cislo>
-		<ean>889698961103</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96111</cislo>
-		<ean>889698961110</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96112</cislo>
-		<ean>889698961127</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -6956,31 +5886,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96117</cislo>
-		<ean>889698961172</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96118</cislo>
-		<ean>889698961189</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96119</cislo>
-		<ean>889698961196</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96120</cislo>
-		<ean>889698961202</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96121</cislo>
-		<ean>889698961219</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96122</cislo>
 		<ean>889698961226</ean>
 		<dostupnost>0</dostupnost>
@@ -6998,26 +5903,6 @@
 	<produkt>
 		<cislo>FK96130</cislo>
 		<ean>889698961301</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96131</cislo>
-		<ean>889698961318</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96132</cislo>
-		<ean>889698961325</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96133</cislo>
-		<ean>889698961332</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96134</cislo>
-		<ean>889698961349</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7041,83 +5926,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96149</cislo>
-		<ean>889698961493</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96150</cislo>
-		<ean>889698961509</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96151</cislo>
-		<ean>889698961516</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96152</cislo>
-		<ean>889698961523</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96153</cislo>
-		<ean>889698961530</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96154</cislo>
-		<ean>889698961547</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96155</cislo>
-		<ean>889698961554</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96156</cislo>
-		<ean>889698961561</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96165</cislo>
-		<ean>889698961653</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96166</cislo>
-		<ean>889698961660</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96172</cislo>
-		<ean>889698961721</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96173</cislo>
-		<ean>889698961738</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96174</cislo>
-		<ean>889698961745</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96177</cislo>
 		<ean>889698961776</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96184</cislo>
-		<ean>889698961844</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96186</cislo>
-		<ean>889698961868</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7156,43 +5966,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96209</cislo>
-		<ean>889698962094</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96210</cislo>
-		<ean>889698962100</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96211</cislo>
-		<ean>889698962117</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96213</cislo>
-		<ean>889698962131</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96214</cislo>
 		<ean>889698962148</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96215</cislo>
-		<ean>889698962155</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96216</cislo>
-		<ean>889698962162</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96232</cislo>
-		<ean>889698962315</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7201,33 +5976,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96240</cislo>
-		<ean>889698962407</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96256</cislo>
-		<ean>889698962568</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96257</cislo>
-		<ean>889698962575</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96258</cislo>
-		<ean>889698962582</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96259</cislo>
-		<ean>889698962599</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96260</cislo>
-		<ean>889698962605</ean>
+		<cislo>FK96241</cislo>
+		<ean>889698962414</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7261,68 +6011,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96270</cislo>
-		<ean>889698962704</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96271</cislo>
-		<ean>889698962711</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96272</cislo>
-		<ean>889698962728</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96274</cislo>
-		<ean>889698962742</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96275</cislo>
-		<ean>889698962759</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96276</cislo>
-		<ean>889698962766</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96277</cislo>
-		<ean>889698962773</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96279</cislo>
-		<ean>889698962797</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96280</cislo>
 		<ean>889698962803</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96281</cislo>
-		<ean>889698962810</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96286</cislo>
-		<ean>889698962865</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96287</cislo>
-		<ean>889698962872</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96288</cislo>
-		<ean>889698962889</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7331,38 +6021,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96338</cislo>
-		<ean>889698963381</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96349</cislo>
 		<ean>889698963497</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96351</cislo>
-		<ean>889698963510</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96352</cislo>
-		<ean>889698963527</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96357</cislo>
-		<ean>889698963572</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96358</cislo>
-		<ean>889698963589</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96359</cislo>
-		<ean>889698963596</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7431,11 +6091,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96421</cislo>
-		<ean>889698964210</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96422</cislo>
 		<ean>889698964227</ean>
 		<dostupnost>0</dostupnost>
@@ -7461,153 +6116,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96447</cislo>
-		<ean>889698964470</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96448</cislo>
-		<ean>889698964487</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96449</cislo>
-		<ean>889698964494</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96450</cislo>
-		<ean>889698964500</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96451</cislo>
-		<ean>889698964517</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96452</cislo>
-		<ean>889698964524</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96453</cislo>
-		<ean>889698964531</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96454</cislo>
-		<ean>889698964548</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96455</cislo>
-		<ean>889698964555</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96456</cislo>
-		<ean>889698964562</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96457</cislo>
-		<ean>889698964579</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96458</cislo>
-		<ean>889698964586</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96459</cislo>
-		<ean>889698964593</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96460</cislo>
-		<ean>889698964609</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96461</cislo>
 		<ean>889698964616</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96462</cislo>
-		<ean>889698964623</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96470</cislo>
-		<ean>889698964708</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96471</cislo>
-		<ean>889698964715</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96472</cislo>
-		<ean>889698964722</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96473</cislo>
-		<ean>889698964739</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96474</cislo>
-		<ean>889698964746</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96481</cislo>
-		<ean>889698964814</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96482</cislo>
-		<ean>889698964821</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96483</cislo>
-		<ean>889698964838</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96487</cislo>
-		<ean>889698964876</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96488</cislo>
-		<ean>889698964883</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96489</cislo>
-		<ean>889698964890</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96490</cislo>
-		<ean>889698964906</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96491</cislo>
-		<ean>889698964913</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96494</cislo>
-		<ean>889698964944</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7623,16 +6133,6 @@
 	<produkt>
 		<cislo>FK96518</cislo>
 		<ean>889698965187</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96519</cislo>
-		<ean>889698965194</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96520</cislo>
-		<ean>889698965200</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7656,11 +6156,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96527</cislo>
-		<ean>889698965279</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96528</cislo>
 		<ean>889698965286</ean>
 		<dostupnost>0</dostupnost>
@@ -7676,36 +6171,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96537</cislo>
-		<ean>889698965378</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96546</cislo>
-		<ean>889698965460</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96547</cislo>
-		<ean>889698965477</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96548</cislo>
-		<ean>889698965484</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96549</cislo>
-		<ean>889698965491</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96565</cislo>
-		<ean>889698965651</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96579</cislo>
 		<ean>889698965798</ean>
 		<dostupnost>0</dostupnost>
@@ -7718,21 +6183,6 @@
 	<produkt>
 		<cislo>FK96581</cislo>
 		<ean>889698965811</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96586</cislo>
-		<ean>889698965866</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96587</cislo>
-		<ean>889698965873</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96590</cislo>
-		<ean>889698965903</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7801,18 +6251,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96606</cislo>
-		<ean>889698966061</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96607</cislo>
 		<ean>889698966078</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96608</cislo>
-		<ean>889698966085</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7831,38 +6271,13 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96618</cislo>
-		<ean>889698966184</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96619</cislo>
-		<ean>889698966191</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96620</cislo>
-		<ean>889698966207</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96625</cislo>
 		<ean>889698966252</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96626</cislo>
-		<ean>889698966269</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96627</cislo>
 		<ean>889698966276</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96628</cislo>
-		<ean>889698966283</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -7931,31 +6346,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96689</cislo>
-		<ean>889698966894</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96690</cislo>
-		<ean>889698966900</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96691</cislo>
-		<ean>889698966917</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96692</cislo>
-		<ean>889698966924</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96694</cislo>
-		<ean>889698966948</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96696</cislo>
 		<ean>889698966962</ean>
 		<dostupnost>0</dostupnost>
@@ -7978,36 +6368,6 @@
 	<produkt>
 		<cislo>FK96704</cislo>
 		<ean>889698967044</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96705</cislo>
-		<ean>889698967051</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96711</cislo>
-		<ean>889698967112</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96712</cislo>
-		<ean>889698967129</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96715</cislo>
-		<ean>889698967150</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96716</cislo>
-		<ean>889698967167</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96717</cislo>
-		<ean>889698967174</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8051,123 +6411,13 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96733</cislo>
-		<ean>889698967334</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96734</cislo>
-		<ean>889698967341</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96735</cislo>
-		<ean>889698967358</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96737</cislo>
-		<ean>889698967372</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96738</cislo>
-		<ean>889698967389</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96739</cislo>
-		<ean>889698967396</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96740</cislo>
-		<ean>889698967402</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96741</cislo>
-		<ean>889698967419</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96742</cislo>
-		<ean>889698967426</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96743</cislo>
-		<ean>889698967433</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96749</cislo>
-		<ean>889698967495</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96750</cislo>
-		<ean>889698967501</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96755</cislo>
-		<ean>889698967556</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96756</cislo>
-		<ean>889698967563</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96757</cislo>
-		<ean>889698967570</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96760</cislo>
 		<ean>889698967600</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96761</cislo>
-		<ean>889698967617</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96762</cislo>
-		<ean>889698967624</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96763</cislo>
 		<ean>889698967631</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96765</cislo>
-		<ean>889698967655</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96766</cislo>
-		<ean>889698967662</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96767</cislo>
-		<ean>889698967679</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96768</cislo>
-		<ean>889698967686</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96769</cislo>
-		<ean>889698967693</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8181,33 +6431,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96772</cislo>
-		<ean>889698967723</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96773</cislo>
-		<ean>889698967730</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96774</cislo>
 		<ean>889698967747</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96779</cislo>
-		<ean>889698967792</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96780</cislo>
-		<ean>889698967808</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96787</cislo>
-		<ean>889698967877</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8228,21 +6453,6 @@
 	<produkt>
 		<cislo>FK96823</cislo>
 		<ean>889698968232</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96827</cislo>
-		<ean>889698968270</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96833</cislo>
-		<ean>889698968331</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96836</cislo>
-		<ean>889698968362</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8276,11 +6486,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96852</cislo>
-		<ean>889698968522</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96854</cislo>
 		<ean>889698968546</ean>
 		<dostupnost>0</dostupnost>
@@ -8298,21 +6503,6 @@
 	<produkt>
 		<cislo>FK96858</cislo>
 		<ean>889698968584</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96859</cislo>
-		<ean>889698968591</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96860</cislo>
-		<ean>889698968607</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96861</cislo>
-		<ean>889698968614</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8341,23 +6531,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96885</cislo>
-		<ean>889698968850</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96886</cislo>
 		<ean>889698968867</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96887</cislo>
-		<ean>889698968874</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96888</cislo>
-		<ean>889698968881</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8381,81 +6556,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96895</cislo>
-		<ean>889698968959</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96896</cislo>
-		<ean>889698968966</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96897</cislo>
-		<ean>889698968973</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96898</cislo>
-		<ean>889698968980</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96932</cislo>
-		<ean>889698969321</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96933</cislo>
-		<ean>889698969338</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96934</cislo>
-		<ean>889698969345</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96935</cislo>
-		<ean>889698969352</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96940</cislo>
-		<ean>889698969406</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96941</cislo>
-		<ean>889698969413</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96942</cislo>
-		<ean>889698969420</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96963</cislo>
-		<ean>889698969635</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96964</cislo>
-		<ean>889698969642</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96965</cislo>
-		<ean>889698969659</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96966</cislo>
-		<ean>889698969666</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK96971</cislo>
 		<ean>889698969710</ean>
 		<dostupnost>0</dostupnost>
@@ -8473,11 +6573,6 @@
 	<produkt>
 		<cislo>FK96980</cislo>
 		<ean>889698969802</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK96981</cislo>
-		<ean>889698969819</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8536,26 +6631,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK96999</cislo>
-		<ean>889698969994</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97000</cislo>
-		<ean>889698970006</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97001</cislo>
-		<ean>889698970013</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97002</cislo>
-		<ean>889698970020</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK97004</cislo>
 		<ean>889698970044</ean>
 		<dostupnost>0</dostupnost>
@@ -8563,21 +6638,6 @@
 	<produkt>
 		<cislo>FK97005</cislo>
 		<ean>889698970051</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97006</cislo>
-		<ean>889698970068</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97007</cislo>
-		<ean>889698970075</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97008</cislo>
-		<ean>889698970082</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8601,26 +6661,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK97031</cislo>
-		<ean>889698970310</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97032</cislo>
-		<ean>889698970327</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97038</cislo>
-		<ean>889698970389</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97039</cislo>
-		<ean>889698970396</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK97040</cislo>
 		<ean>889698970402</ean>
 		<dostupnost>0</dostupnost>
@@ -8636,68 +6676,13 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK97047</cislo>
-		<ean>889698970471</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK97048</cislo>
 		<ean>889698970488</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK97049</cislo>
-		<ean>889698970495</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97051</cislo>
-		<ean>889698970518</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97052</cislo>
-		<ean>889698970525</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97053</cislo>
-		<ean>889698970532</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97054</cislo>
-		<ean>889698970549</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97056</cislo>
-		<ean>889698970563</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK97057</cislo>
 		<ean>889698970570</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97058</cislo>
-		<ean>889698970587</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97059</cislo>
-		<ean>889698970594</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97060</cislo>
-		<ean>889698970600</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97061</cislo>
-		<ean>889698970617</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8708,31 +6693,6 @@
 	<produkt>
 		<cislo>FK97090</cislo>
 		<ean>889698970907</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97091</cislo>
-		<ean>889698970914</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97092</cislo>
-		<ean>889698970921</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97093</cislo>
-		<ean>889698970938</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97094</cislo>
-		<ean>889698970945</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97104</cislo>
-		<ean>889698971041</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8761,36 +6721,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK97126</cislo>
-		<ean>889698971263</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97140</cislo>
-		<ean>889698971409</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97141</cislo>
-		<ean>889698971416</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97142</cislo>
-		<ean>889698971423</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97149</cislo>
-		<ean>889698971492</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97151</cislo>
-		<ean>889698971515</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK97152</cislo>
 		<ean>889698971522</ean>
 		<dostupnost>0</dostupnost>
@@ -8808,51 +6738,6 @@
 	<produkt>
 		<cislo>FK97192</cislo>
 		<ean>889698971928</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97197</cislo>
-		<ean>889698971973</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97198</cislo>
-		<ean>889698971980</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97221</cislo>
-		<ean>889698972215</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97222</cislo>
-		<ean>889698972222</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97227</cislo>
-		<ean>889698972277</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97228</cislo>
-		<ean>889698972284</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97231</cislo>
-		<ean>889698972314</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97275</cislo>
-		<ean>889698972758</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97313</cislo>
-		<ean>889698973137</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8881,93 +6766,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK97342</cislo>
-		<ean>889698973427</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97343</cislo>
-		<ean>889698973434</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK97377</cislo>
 		<ean>889698973779</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97378</cislo>
-		<ean>889698973786</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97379</cislo>
-		<ean>889698973793</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97425</cislo>
-		<ean>889698974257</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97437</cislo>
-		<ean>889698974370</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97438</cislo>
-		<ean>889698974387</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97439</cislo>
-		<ean>889698974394</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97441</cislo>
-		<ean>889698974417</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97442</cislo>
-		<ean>889698974424</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97443</cislo>
-		<ean>889698974431</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97444</cislo>
-		<ean>889698974448</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97445</cislo>
-		<ean>889698974455</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97446</cislo>
-		<ean>889698974462</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97500</cislo>
-		<ean>889698975001</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97504</cislo>
-		<ean>889698975049</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97510</cislo>
-		<ean>889698975100</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -8988,11 +6788,6 @@
 	<produkt>
 		<cislo>FK97571</cislo>
 		<ean>889698975711</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97572</cislo>
-		<ean>889698975728</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -9021,53 +6816,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>FK97832</cislo>
-		<ean>889698978323</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97908</cislo>
-		<ean>889698979085</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97931</cislo>
-		<ean>889698979313</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97932</cislo>
-		<ean>889698979320</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97933</cislo>
-		<ean>889698979337</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK97962</cislo>
-		<ean>889698979627</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK98515</cislo>
-		<ean>889698985154</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>FK98871</cislo>
 		<ean>889698988711</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK99148</cislo>
-		<ean>889698991483</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>FK99191</cislo>
-		<ean>889698991919</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -9163,7 +6913,7 @@
 	<produkt>
 		<cislo>FMEC109</cislo>
 		<ean>841333117665</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>95</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FMEC112CZ</cislo>
@@ -9223,7 +6973,7 @@
 	<produkt>
 		<cislo>FSWG03CZ</cislo>
 		<ean>0841333135768</ean>
-		<dostupnost>99</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>FSWG04CZ</cislo>
@@ -9278,12 +7028,12 @@
 	<produkt>
 		<cislo>GA0138L</cislo>
 		<ean>5011979101389</ean>
-		<dostupnost>51</dostupnost>
+		<dostupnost>36</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA0857D</cislo>
 		<ean>5011979108579</ean>
-		<dostupnost>67</dostupnost>
+		<dostupnost>61</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA0857D@305</cislo>
@@ -9293,12 +7043,12 @@
 	<produkt>
 		<cislo>GA0858B</cislo>
 		<ean>5011979316936</ean>
-		<dostupnost>58</dostupnost>
+		<dostupnost>53</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA0866B</cislo>
 		<ean>5011979324177</ean>
-		<dostupnost>63</dostupnost>
+		<dostupnost>62</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA0866B@305</cislo>
@@ -9308,7 +7058,7 @@
 	<produkt>
 		<cislo>GA1003028</cislo>
 		<ean>5011979526410</ean>
-		<dostupnost>35</dostupnost>
+		<dostupnost>31</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003028@305</cislo>
@@ -9318,7 +7068,7 @@
 	<produkt>
 		<cislo>GA1003031</cislo>
 		<ean>5011979526434</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003037</cislo>
@@ -9328,7 +7078,7 @@
 	<produkt>
 		<cislo>GA1003163</cislo>
 		<ean>5011979527479</ean>
-		<dostupnost>79</dostupnost>
+		<dostupnost>76</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003163@305</cislo>
@@ -9338,32 +7088,32 @@
 	<produkt>
 		<cislo>GA1003235</cislo>
 		<ean>5011979528919</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>28</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003262</cislo>
 		<ean>5011979529855</ean>
-		<dostupnost>36</dostupnost>
+		<dostupnost>33</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003286</cislo>
 		<ean>5011979530011</ean>
-		<dostupnost>14</dostupnost>
+		<dostupnost>8</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003295</cislo>
 		<ean>5011979530073</ean>
-		<dostupnost>43</dostupnost>
+		<dostupnost>39</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003325</cislo>
 		<ean>5011979530394</ean>
-		<dostupnost>87</dostupnost>
+		<dostupnost>82</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003418</cislo>
 		<ean>5011979543585</ean>
-		<dostupnost>48</dostupnost>
+		<dostupnost>45</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003418@305</cislo>
@@ -9383,7 +7133,7 @@
 	<produkt>
 		<cislo>GA1003460</cislo>
 		<ean>5011979544247</ean>
-		<dostupnost>40</dostupnost>
+		<dostupnost>37</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003466</cislo>
@@ -9408,32 +7158,32 @@
 	<produkt>
 		<cislo>GA1003835</cislo>
 		<ean>5011979552075</ean>
-		<dostupnost>9</dostupnost>
+		<dostupnost>8</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003847</cislo>
 		<ean>5011979552617</ean>
-		<dostupnost>44</dostupnost>
+		<dostupnost>43</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003850</cislo>
 		<ean>5011979552648</ean>
-		<dostupnost>35</dostupnost>
+		<dostupnost>34</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003871</cislo>
 		<ean>5011979552853</ean>
-		<dostupnost>12</dostupnost>
+		<dostupnost>9</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1003913</cislo>
 		<ean>5011979553270</ean>
-		<dostupnost>54</dostupnost>
+		<dostupnost>53</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004009</cislo>
 		<ean>5011979554659</ean>
-		<dostupnost>66</dostupnost>
+		<dostupnost>63</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004057</cislo>
@@ -9448,12 +7198,12 @@
 	<produkt>
 		<cislo>GA1004069</cislo>
 		<ean>5011979558169</ean>
-		<dostupnost>95</dostupnost>
+		<dostupnost>91</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004117</cislo>
 		<ean>5011979559333</ean>
-		<dostupnost>44</dostupnost>
+		<dostupnost>41</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004126</cislo>
@@ -9463,7 +7213,7 @@
 	<produkt>
 		<cislo>GA1004270</cislo>
 		<ean>5011979560988</ean>
-		<dostupnost>27</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004270@305</cislo>
@@ -9473,7 +7223,7 @@
 	<produkt>
 		<cislo>GA1004309</cislo>
 		<ean>5011979563712</ean>
-		<dostupnost>39</dostupnost>
+		<dostupnost>34</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004357</cislo>
@@ -9498,17 +7248,17 @@
 	<produkt>
 		<cislo>GA1004399</cislo>
 		<ean>5011979565877</ean>
-		<dostupnost>48</dostupnost>
+		<dostupnost>47</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004414</cislo>
 		<ean>5011979566232</ean>
-		<dostupnost>21</dostupnost>
+		<dostupnost>17</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004471</cislo>
 		<ean>5011979567253</ean>
-		<dostupnost>23</dostupnost>
+		<dostupnost>22</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004471@305</cislo>
@@ -9528,7 +7278,7 @@
 	<produkt>
 		<cislo>GA1004591</cislo>
 		<ean>5011979570703</ean>
-		<dostupnost>21</dostupnost>
+		<dostupnost>20</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004591@305</cislo>
@@ -9543,7 +7293,7 @@
 	<produkt>
 		<cislo>GA1004606</cislo>
 		<ean>5011979570857</ean>
-		<dostupnost>26</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004606@305</cislo>
@@ -9563,7 +7313,7 @@
 	<produkt>
 		<cislo>GA1004651</cislo>
 		<ean>5011979571519</ean>
-		<dostupnost>33</dostupnost>
+		<dostupnost>31</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004660</cislo>
@@ -9573,12 +7323,12 @@
 	<produkt>
 		<cislo>GA1004705</cislo>
 		<ean>5011979576255</ean>
-		<dostupnost>39</dostupnost>
+		<dostupnost>37</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004735</cislo>
 		<ean>5011979576767</ean>
-		<dostupnost>40</dostupnost>
+		<dostupnost>35</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004819</cislo>
@@ -9598,12 +7348,12 @@
 	<produkt>
 		<cislo>GA1004918</cislo>
 		<ean>5011979580184</ean>
-		<dostupnost>37</dostupnost>
+		<dostupnost>34</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004924</cislo>
 		<ean>5011979580245</ean>
-		<dostupnost>22</dostupnost>
+		<dostupnost>20</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004924@305</cislo>
@@ -9628,12 +7378,12 @@
 	<produkt>
 		<cislo>GA1004957</cislo>
 		<ean>5011979581532</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>25</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004969</cislo>
 		<ean>5011979581655</ean>
-		<dostupnost>62</dostupnost>
+		<dostupnost>42</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1004969@305</cislo>
@@ -9698,7 +7448,7 @@
 	<produkt>
 		<cislo>GA1005143</cislo>
 		<ean>5011979586094</ean>
-		<dostupnost>17</dostupnost>
+		<dostupnost>16</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005143@305</cislo>
@@ -9718,7 +7468,7 @@
 	<produkt>
 		<cislo>GA1005266</cislo>
 		<ean>5011979591319</ean>
-		<dostupnost>10</dostupnost>
+		<dostupnost>7</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005269</cislo>
@@ -9738,17 +7488,17 @@
 	<produkt>
 		<cislo>GA1005284</cislo>
 		<ean>5011979591852</ean>
-		<dostupnost>10</dostupnost>
+		<dostupnost>6</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005290</cislo>
 		<ean>5011979591975</ean>
-		<dostupnost>1</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005293</cislo>
 		<ean>5011979592033</ean>
-		<dostupnost>11</dostupnost>
+		<dostupnost>10</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005296</cislo>
@@ -9768,7 +7518,7 @@
 	<produkt>
 		<cislo>GA1005326</cislo>
 		<ean>5011979606495</ean>
-		<dostupnost>18</dostupnost>
+		<dostupnost>16</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005329</cislo>
@@ -9788,7 +7538,7 @@
 	<produkt>
 		<cislo>GA1005350</cislo>
 		<ean>5011979607812</ean>
-		<dostupnost>3</dostupnost>
+		<dostupnost>1</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005356</cislo>
@@ -9808,7 +7558,7 @@
 	<produkt>
 		<cislo>GA1005413</cislo>
 		<ean>5011979616043</ean>
-		<dostupnost>11</dostupnost>
+		<dostupnost>10</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005413@305</cislo>
@@ -9818,7 +7568,7 @@
 	<produkt>
 		<cislo>GA1005422</cislo>
 		<ean>5011979616227</ean>
-		<dostupnost>17</dostupnost>
+		<dostupnost>11</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005422@305</cislo>
@@ -9843,12 +7593,12 @@
 	<produkt>
 		<cislo>GA1005464</cislo>
 		<ean>5011979623751</ean>
-		<dostupnost>46</dostupnost>
+		<dostupnost>45</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005485</cislo>
 		<ean>5011979624178</ean>
-		<dostupnost>32</dostupnost>
+		<dostupnost>31</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005518</cislo>
@@ -9868,7 +7618,7 @@
 	<produkt>
 		<cislo>GA1005527</cislo>
 		<ean>5011979624956</ean>
-		<dostupnost>61</dostupnost>
+		<dostupnost>59</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1005536</cislo>
@@ -9933,7 +7683,7 @@
 	<produkt>
 		<cislo>GA1005701</cislo>
 		<ean>5011979631763</ean>
-		<dostupnost>3</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1013K</cislo>
@@ -9953,7 +7703,7 @@
 	<produkt>
 		<cislo>GA1105047</cislo>
 		<ean>5011979526533</ean>
-		<dostupnost>10</dostupnost>
+		<dostupnost>8</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1105050</cislo>
@@ -9963,12 +7713,12 @@
 	<produkt>
 		<cislo>GA1105266</cislo>
 		<ean>5011979549310</ean>
-		<dostupnost>1</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1105449</cislo>
 		<ean>5011979577030</ean>
-		<dostupnost>33</dostupnost>
+		<dostupnost>31</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA1105452</cislo>
@@ -9988,12 +7738,12 @@
 	<produkt>
 		<cislo>GA1150400300</cislo>
 		<ean>5063439000121</ean>
-		<dostupnost>58</dostupnost>
+		<dostupnost>55</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA2500H</cislo>
 		<ean>5011979521545</ean>
-		<dostupnost>5</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA2500H@305</cislo>
@@ -10008,7 +7758,7 @@
 	<produkt>
 		<cislo>GA3975K</cislo>
 		<ean>5011979523020</ean>
-		<dostupnost>44</dostupnost>
+		<dostupnost>43</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GA3975K@305</cislo>
@@ -10018,7 +7768,7 @@
 	<produkt>
 		<cislo>GA4085G</cislo>
 		<ean>5011979322456</ean>
-		<dostupnost>12</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GAM2301</cislo>
@@ -10043,7 +7793,7 @@
 	<produkt>
 		<cislo>GAM5615</cislo>
 		<ean>8594054915615</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GAM5615@305</cislo>
@@ -10238,7 +7988,7 @@
 	<produkt>
 		<cislo>GGS15091ML</cislo>
 		<ean>4251715418451</ean>
-		<dostupnost>92</dostupnost>
+		<dostupnost>66</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS15092ML</cislo>
@@ -10358,32 +8108,32 @@
 	<produkt>
 		<cislo>GGS20098ML</cislo>
 		<ean>4251715412060</ean>
-		<dostupnost>86</dostupnost>
+		<dostupnost>74</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20099ML</cislo>
 		<ean>4251715412077</ean>
-		<dostupnost>73</dostupnost>
+		<dostupnost>49</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20100ML</cislo>
 		<ean>4251715412084</ean>
-		<dostupnost>89</dostupnost>
+		<dostupnost>77</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20104ML</cislo>
 		<ean>4251715412121</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>87</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20105ML</cislo>
 		<ean>4251715412138</ean>
-		<dostupnost>98</dostupnost>
+		<dostupnost>87</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20106ML</cislo>
 		<ean>4251715412145</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>97</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20110ML</cislo>
@@ -10418,7 +8168,7 @@
 	<produkt>
 		<cislo>GGS20121ML</cislo>
 		<ean>4251715412398</ean>
-		<dostupnost>51</dostupnost>
+		<dostupnost>35</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20122ML</cislo>
@@ -10438,7 +8188,7 @@
 	<produkt>
 		<cislo>GGS20138ML</cislo>
 		<ean>4251715412886</ean>
-		<dostupnost>97</dostupnost>
+		<dostupnost>77</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20139ML</cislo>
@@ -10463,12 +8213,12 @@
 	<produkt>
 		<cislo>GGS20169ML</cislo>
 		<ean>4251715414484</ean>
-		<dostupnost>12</dostupnost>
+		<dostupnost>8</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20179ML</cislo>
 		<ean>4251715415269</ean>
-		<dostupnost>10</dostupnost>
+		<dostupnost>2</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20184ML</cislo>
@@ -10483,17 +8233,17 @@
 	<produkt>
 		<cislo>GGS20213ML</cislo>
 		<ean>4251715416556</ean>
-		<dostupnost>30</dostupnost>
+		<dostupnost>27</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20220ML</cislo>
 		<ean>4251715417539</ean>
-		<dostupnost>43</dostupnost>
+		<dostupnost>42</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20221ML</cislo>
 		<ean>4251715417546</ean>
-		<dostupnost>45</dostupnost>
+		<dostupnost>44</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20222ML</cislo>
@@ -10508,12 +8258,12 @@
 	<produkt>
 		<cislo>GGS20224ML</cislo>
 		<ean>4251715417577</ean>
-		<dostupnost>46</dostupnost>
+		<dostupnost>45</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20225ML</cislo>
 		<ean>4251715417584</ean>
-		<dostupnost>41</dostupnost>
+		<dostupnost>40</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS20231ML</cislo>
@@ -10528,17 +8278,17 @@
 	<produkt>
 		<cislo>GGS22001ML</cislo>
 		<ean>4251715412282</ean>
-		<dostupnost>36</dostupnost>
+		<dostupnost>25</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22009ML</cislo>
 		<ean>4251715413562</ean>
-		<dostupnost>59</dostupnost>
+		<dostupnost>37</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22010ML</cislo>
 		<ean>4251715413579</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>80</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22011ML</cislo>
@@ -10548,12 +8298,12 @@
 	<produkt>
 		<cislo>GGS22012ML</cislo>
 		<ean>4251715413593</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>96</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22013ML</cislo>
 		<ean>4251715413609</ean>
-		<dostupnost>72</dostupnost>
+		<dostupnost>52</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22014ML</cislo>
@@ -10578,27 +8328,27 @@
 	<produkt>
 		<cislo>GGS22018ML</cislo>
 		<ean>4251715413654</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>7</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22019ML</cislo>
 		<ean>4251715413661</ean>
-		<dostupnost>53</dostupnost>
+		<dostupnost>33</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22027ML</cislo>
 		<ean>4251715413746</ean>
-		<dostupnost>12</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22036ML</cislo>
 		<ean>4251715414545</ean>
-		<dostupnost>62</dostupnost>
+		<dostupnost>60</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22037ML</cislo>
 		<ean>4251715414552</ean>
-		<dostupnost>4</dostupnost>
+		<dostupnost>3</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS22038ML</cislo>
@@ -10608,7 +8358,7 @@
 	<produkt>
 		<cislo>GGS22042ML</cislo>
 		<ean>4251715416280</ean>
-		<dostupnost>34</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS25014ML</cislo>
@@ -10633,7 +8383,7 @@
 	<produkt>
 		<cislo>GGS25032ML</cislo>
 		<ean>4251715401675</ean>
-		<dostupnost>75</dostupnost>
+		<dostupnost>26</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS25033ML</cislo>
@@ -10673,12 +8423,12 @@
 	<produkt>
 		<cislo>GGS25079ML</cislo>
 		<ean>4251715410080</ean>
-		<dostupnost>15</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS25088ML</cislo>
 		<ean>4251715410172</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>62</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS25089ML</cislo>
@@ -10693,7 +8443,7 @@
 	<produkt>
 		<cislo>GGS25111ML</cislo>
 		<ean>4251715414385</ean>
-		<dostupnost>99</dostupnost>
+		<dostupnost>89</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS25116ML</cislo>
@@ -10753,7 +8503,7 @@
 	<produkt>
 		<cislo>GGS25156ML</cislo>
 		<ean>4251715419281</ean>
-		<dostupnost>80</dostupnost>
+		<dostupnost>79</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS25157ML</cislo>
@@ -10813,7 +8563,7 @@
 	<produkt>
 		<cislo>GGS31050ML</cislo>
 		<ean>4251715417416</ean>
-		<dostupnost>25</dostupnost>
+		<dostupnost>8</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS31054ML</cislo>
@@ -10838,12 +8588,12 @@
 	<produkt>
 		<cislo>GGS32041ML</cislo>
 		<ean>4251715418642</ean>
-		<dostupnost>76</dostupnost>
+		<dostupnost>74</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS32042ML</cislo>
 		<ean>4251715418772</ean>
-		<dostupnost>58</dostupnost>
+		<dostupnost>57</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS32044ML</cislo>
@@ -10868,7 +8618,7 @@
 	<produkt>
 		<cislo>GGS40081ML</cislo>
 		<ean>4251715417379</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>98</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS40082ML</cislo>
@@ -10888,7 +8638,7 @@
 	<produkt>
 		<cislo>GGS40102ML</cislo>
 		<ean>4251715418178</ean>
-		<dostupnost>42</dostupnost>
+		<dostupnost>40</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS40117ML</cislo>
@@ -10928,7 +8678,7 @@
 	<produkt>
 		<cislo>GGS40150ML</cislo>
 		<ean>4251715419328</ean>
-		<dostupnost>51</dostupnost>
+		<dostupnost>49</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS40151ML</cislo>
@@ -10988,12 +8738,12 @@
 	<produkt>
 		<cislo>GGS49006ML</cislo>
 		<ean>4251715418307</ean>
-		<dostupnost>8</dostupnost>
+		<dostupnost>2</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS49007ML</cislo>
 		<ean>4251715418314</ean>
-		<dostupnost>10</dostupnost>
+		<dostupnost>4</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS50001ML</cislo>
@@ -11008,7 +8758,7 @@
 	<produkt>
 		<cislo>GGS60085ML</cislo>
 		<ean>4251715412565</ean>
-		<dostupnost>38</dostupnost>
+		<dostupnost>37</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GGS60099ML</cislo>
@@ -11293,12 +9043,12 @@
 	<produkt>
 		<cislo>GOBW3DSCZ</cislo>
 		<ean>8595680302473</ean>
-		<dostupnost>75</dostupnost>
+		<dostupnost>70</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GOBW3MCCZ</cislo>
 		<ean>8595680302466</ean>
-		<dostupnost>58</dostupnost>
+		<dostupnost>48</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>GOTSBG01CZ</cislo>
@@ -11338,7 +9088,7 @@
 	<produkt>
 		<cislo>HECS53214</cislo>
 		<ean>8057592353214</ean>
-		<dostupnost>84</dostupnost>
+		<dostupnost>66</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HECS53238</cislo>
@@ -11358,22 +9108,22 @@
 	<produkt>
 		<cislo>HEEN20959</cislo>
 		<ean>8059591420959</ean>
-		<dostupnost>28</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEEN20966</cislo>
 		<ean>8059591420966</ean>
-		<dostupnost>36</dostupnost>
+		<dostupnost>32</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEEN20980</cislo>
 		<ean>8059591420980</ean>
-		<dostupnost>30</dostupnost>
+		<dostupnost>27</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEEN22786</cislo>
 		<ean>8059591422786</ean>
-		<dostupnost>14</dostupnost>
+		<dostupnost>10</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEIT20133NEW        </cislo>
@@ -11383,12 +9133,7 @@
 	<produkt>
 		<cislo>HEIT20140NEW        </cislo>
 		<ean>8595680303357</ean>
-		<dostupnost>44</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>HEIT20713</cislo>
-		<ean>8059591420713</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>42</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEIT20836NEW        </cislo>
@@ -11398,17 +9143,17 @@
 	<produkt>
 		<cislo>HEIT21109</cislo>
 		<ean>8059591421109</ean>
-		<dostupnost>16</dostupnost>
+		<dostupnost>11</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEIT21468</cislo>
 		<ean>8059591421468</ean>
-		<dostupnost>19</dostupnost>
+		<dostupnost>16</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEIT22243</cislo>
 		<ean>8059591422243</ean>
-		<dostupnost>19</dostupnost>
+		<dostupnost>17</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>HEIT22304</cislo>
@@ -11466,11 +9211,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>INHC01CZ</cislo>
-		<ean>8595680302824</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>ISBE01CZ</cislo>
 		<ean>8595680302619</ean>
 		<dostupnost>0</dostupnost>
@@ -11486,16 +9226,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>JP409474</cislo>
-		<ean>192995409484</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>JP409474@305</cislo>
-		<ean>192995409484</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>JSECO01ML1</cislo>
 		<ean>3558380080053</ean>
 		<dostupnost>0</dostupnost>
@@ -11503,12 +9233,12 @@
 	<produkt>
 		<cislo>JTEK7900</cislo>
 		<ean>850053763328</ean>
-		<dostupnost>92</dostupnost>
+		<dostupnost>89</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>JTEK7901</cislo>
 		<ean>850053763311</ean>
-		<dostupnost>66</dostupnost>
+		<dostupnost>57</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>JTEK7902</cislo>
@@ -11534,6 +9264,11 @@
 		<cislo>KBGCRPOC01</cislo>
 		<ean>8595680303241</ean>
 		<dostupnost>100</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>KBGCRPRM01</cislo>
+		<ean>8595680303258</ean>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>KBGCRW01</cislo>
@@ -11611,11 +9346,6 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>LOFOSH01CS@305</cislo>
-		<ean>3558380119371</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>LOG007502CZSK</cislo>
 		<ean>3558387009194</ean>
 		<dostupnost>0</dostupnost>
@@ -11673,12 +9403,12 @@
 	<produkt>
 		<cislo>MN10400</cislo>
 		<ean>8436605110400</ean>
-		<dostupnost>87</dostupnost>
+		<dostupnost>84</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN10776</cislo>
 		<ean>8436605110776</ean>
-		<dostupnost>43</dostupnost>
+		<dostupnost>42</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN10998</cislo>
@@ -11698,7 +9428,7 @@
 	<produkt>
 		<cislo>MN11063</cislo>
 		<ean>8436605111063</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11063@305</cislo>
@@ -11708,7 +9438,7 @@
 	<produkt>
 		<cislo>MN11070</cislo>
 		<ean>8436605111070</ean>
-		<dostupnost>26</dostupnost>
+		<dostupnost>24</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11094</cislo>
@@ -11718,7 +9448,7 @@
 	<produkt>
 		<cislo>MN11117</cislo>
 		<ean>8436605111117</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11285</cislo>
@@ -11733,7 +9463,7 @@
 	<produkt>
 		<cislo>MN11315</cislo>
 		<ean>8436605111315</ean>
-		<dostupnost>54</dostupnost>
+		<dostupnost>48</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11612</cislo>
@@ -11743,7 +9473,7 @@
 	<produkt>
 		<cislo>MN11650</cislo>
 		<ean>8436605111650</ean>
-		<dostupnost>93</dostupnost>
+		<dostupnost>86</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11667</cislo>
@@ -11763,7 +9493,7 @@
 	<produkt>
 		<cislo>MN11681</cislo>
 		<ean>8436605111681</ean>
-		<dostupnost>51</dostupnost>
+		<dostupnost>47</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11681@305</cislo>
@@ -11783,12 +9513,12 @@
 	<produkt>
 		<cislo>MN11704</cislo>
 		<ean>8436605111704</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11711</cislo>
 		<ean>8436605111711</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11728</cislo>
@@ -11833,32 +9563,32 @@
 	<produkt>
 		<cislo>MN11827</cislo>
 		<ean>8436605111827</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11964</cislo>
 		<ean>8436605111964</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>25</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN11971</cislo>
 		<ean>8436605111971</ean>
-		<dostupnost>77</dostupnost>
+		<dostupnost>73</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN12015</cislo>
 		<ean>8436605112015</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN12305</cislo>
 		<ean>8436605112305</ean>
-		<dostupnost>52</dostupnost>
+		<dostupnost>51</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN12336</cislo>
 		<ean>8436605112336</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN12336@305</cislo>
@@ -11868,7 +9598,7 @@
 	<produkt>
 		<cislo>MN12411</cislo>
 		<ean>8436605112411</ean>
-		<dostupnost>8</dostupnost>
+		<dostupnost>80</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN12541</cislo>
@@ -11953,7 +9683,7 @@
 	<produkt>
 		<cislo>MN13050</cislo>
 		<ean>8436605113050</ean>
-		<dostupnost>82</dostupnost>
+		<dostupnost>78</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN13128</cislo>
@@ -11968,7 +9698,7 @@
 	<produkt>
 		<cislo>MN13159</cislo>
 		<ean>8436605113159</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN13173</cislo>
@@ -12013,7 +9743,7 @@
 	<produkt>
 		<cislo>MN13784</cislo>
 		<ean>8436605113784</ean>
-		<dostupnost>32</dostupnost>
+		<dostupnost>31</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN13791</cislo>
@@ -12033,17 +9763,17 @@
 	<produkt>
 		<cislo>MN13838</cislo>
 		<ean>8436605113838</ean>
-		<dostupnost>66</dostupnost>
+		<dostupnost>59</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN13845</cislo>
 		<ean>8436605113845</ean>
-		<dostupnost>18</dostupnost>
+		<dostupnost>17</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN13852</cislo>
 		<ean>8436605113852</ean>
-		<dostupnost>16</dostupnost>
+		<dostupnost>15</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN13869</cislo>
@@ -12083,12 +9813,12 @@
 	<produkt>
 		<cislo>MN14040</cislo>
 		<ean>8436605114040</ean>
-		<dostupnost>90</dostupnost>
+		<dostupnost>89</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14064</cislo>
 		<ean>8436605114064</ean>
-		<dostupnost>58</dostupnost>
+		<dostupnost>56</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14071</cislo>
@@ -12118,12 +9848,12 @@
 	<produkt>
 		<cislo>MN14125</cislo>
 		<ean>8436605114125</ean>
-		<dostupnost>64</dostupnost>
+		<dostupnost>57</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14132</cislo>
 		<ean>8436605114132</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>20</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14132@305</cislo>
@@ -12168,7 +9898,7 @@
 	<produkt>
 		<cislo>MN14262</cislo>
 		<ean>8436605114262</ean>
-		<dostupnost>56</dostupnost>
+		<dostupnost>54</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14293</cislo>
@@ -12233,12 +9963,12 @@
 	<produkt>
 		<cislo>MN14958</cislo>
 		<ean>8436605114958</ean>
-		<dostupnost>66</dostupnost>
+		<dostupnost>64</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14972</cislo>
 		<ean>8436605114972</ean>
-		<dostupnost>6</dostupnost>
+		<dostupnost>5</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN14989</cislo>
@@ -12268,7 +9998,7 @@
 	<produkt>
 		<cislo>MN15030</cislo>
 		<ean>8436605115030</ean>
-		<dostupnost>15</dostupnost>
+		<dostupnost>13</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN15030@305</cislo>
@@ -12296,11 +10026,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>MN15177@305</cislo>
-		<ean>8436605115177</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>MN15191</cislo>
 		<ean>8436605115191</ean>
 		<dostupnost>0</dostupnost>
@@ -12314,16 +10039,6 @@
 		<cislo>MN15214</cislo>
 		<ean>8436605115214</ean>
 		<dostupnost>50</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN15238</cislo>
-		<ean>8436605115238</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN15238@305</cislo>
-		<ean>8436605115238</ean>
-		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN15252</cislo>
@@ -12393,12 +10108,12 @@
 	<produkt>
 		<cislo>MN15900</cislo>
 		<ean>8436605115900</ean>
-		<dostupnost>48</dostupnost>
+		<dostupnost>45</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN15917</cislo>
 		<ean>8436605115917</ean>
-		<dostupnost>47</dostupnost>
+		<dostupnost>45</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN15962</cislo>
@@ -12408,27 +10123,27 @@
 	<produkt>
 		<cislo>MN15979</cislo>
 		<ean>8436605115979</ean>
-		<dostupnost>67</dostupnost>
+		<dostupnost>66</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN15993</cislo>
 		<ean>8436605115993</ean>
-		<dostupnost>54</dostupnost>
+		<dostupnost>51</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16006</cislo>
 		<ean>8436605116006</ean>
-		<dostupnost>22</dostupnost>
+		<dostupnost>20</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16037</cislo>
 		<ean>8436605116037</ean>
-		<dostupnost>52</dostupnost>
+		<dostupnost>50</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16044</cislo>
 		<ean>8436605116044</ean>
-		<dostupnost>86</dostupnost>
+		<dostupnost>83</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16068</cislo>
@@ -12453,7 +10168,7 @@
 	<produkt>
 		<cislo>MN16112</cislo>
 		<ean>8436605116112</ean>
-		<dostupnost>59</dostupnost>
+		<dostupnost>57</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16129</cislo>
@@ -12463,17 +10178,17 @@
 	<produkt>
 		<cislo>MN16136</cislo>
 		<ean>8436605116136</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16143</cislo>
 		<ean>8436605116143</ean>
-		<dostupnost>17</dostupnost>
+		<dostupnost>5</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16150</cislo>
 		<ean>8436605116150</ean>
-		<dostupnost>40</dostupnost>
+		<dostupnost>39</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16167</cislo>
@@ -12488,7 +10203,7 @@
 	<produkt>
 		<cislo>MN16181</cislo>
 		<ean>8436605116181</ean>
-		<dostupnost>79</dostupnost>
+		<dostupnost>77</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16198</cislo>
@@ -12513,7 +10228,7 @@
 	<produkt>
 		<cislo>MN16464</cislo>
 		<ean>8436605116464</ean>
-		<dostupnost>57</dostupnost>
+		<dostupnost>51</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16501</cislo>
@@ -12538,12 +10253,12 @@
 	<produkt>
 		<cislo>MN16617</cislo>
 		<ean>8436605116617</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>22</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16655</cislo>
 		<ean>8436605116655</ean>
-		<dostupnost>4</dostupnost>
+		<dostupnost>3</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN16655@305</cislo>
@@ -12553,12 +10268,12 @@
 	<produkt>
 		<cislo>MN16662</cislo>
 		<ean>8436605116662</ean>
-		<dostupnost>17</dostupnost>
+		<dostupnost>7</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN17447</cislo>
 		<ean>8436605117447</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>91</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN17669</cislo>
@@ -12578,12 +10293,12 @@
 	<produkt>
 		<cislo>MN17720</cislo>
 		<ean>8436605117720</ean>
-		<dostupnost>63</dostupnost>
+		<dostupnost>61</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18024</cislo>
 		<ean>8436605118024</ean>
-		<dostupnost>29</dostupnost>
+		<dostupnost>8</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18024@305</cislo>
@@ -12598,7 +10313,7 @@
 	<produkt>
 		<cislo>MN18079</cislo>
 		<ean>8436605118079</ean>
-		<dostupnost>87</dostupnost>
+		<dostupnost>69</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18079@305</cislo>
@@ -12648,17 +10363,17 @@
 	<produkt>
 		<cislo>MN18369</cislo>
 		<ean>8436605118369</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18376</cislo>
 		<ean>8436605118376</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18383</cislo>
 		<ean>8436605118383</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18390</cislo>
@@ -12673,7 +10388,7 @@
 	<produkt>
 		<cislo>MN18420</cislo>
 		<ean>8436605118420</ean>
-		<dostupnost>3</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18437</cislo>
@@ -12688,7 +10403,7 @@
 	<produkt>
 		<cislo>MN18451</cislo>
 		<ean>8436605118451</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18468</cislo>
@@ -12738,7 +10453,7 @@
 	<produkt>
 		<cislo>MN18864</cislo>
 		<ean>8436605118864</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18888</cislo>
@@ -12753,7 +10468,7 @@
 	<produkt>
 		<cislo>MN18918</cislo>
 		<ean>8436605118918</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>70</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN18918@305</cislo>
@@ -12773,17 +10488,17 @@
 	<produkt>
 		<cislo>MN19281</cislo>
 		<ean>8436605119281</ean>
-		<dostupnost>13</dostupnost>
+		<dostupnost>12</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN19298</cislo>
 		<ean>8436605119298</ean>
-		<dostupnost>63</dostupnost>
+		<dostupnost>60</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20003</cislo>
 		<ean>8436605120003</ean>
-		<dostupnost>8</dostupnost>
+		<dostupnost>6</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20041</cislo>
@@ -12793,7 +10508,7 @@
 	<produkt>
 		<cislo>MN20362</cislo>
 		<ean>8436605120362</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>60</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20409</cislo>
@@ -12813,22 +10528,7 @@
 	<produkt>
 		<cislo>MN20461</cislo>
 		<ean>8436605120461</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN20577</cislo>
-		<ean>8436605120577</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN20607</cislo>
-		<ean>8436605120607</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN20645</cislo>
-		<ean>8436605120645</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>72</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20669</cislo>
@@ -12838,12 +10538,12 @@
 	<produkt>
 		<cislo>MN20720</cislo>
 		<ean>8436605120720</ean>
-		<dostupnost>19</dostupnost>
+		<dostupnost>12</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20744</cislo>
 		<ean>8436605120744</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>67</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20751</cislo>
@@ -12863,7 +10563,7 @@
 	<produkt>
 		<cislo>MN20782</cislo>
 		<ean>8436605120782</ean>
-		<dostupnost>11</dostupnost>
+		<dostupnost>5</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20782@305</cislo>
@@ -12898,7 +10598,7 @@
 	<produkt>
 		<cislo>MN20850</cislo>
 		<ean>8436605120850</ean>
-		<dostupnost>66</dostupnost>
+		<dostupnost>53</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN20867</cislo>
@@ -12938,7 +10638,7 @@
 	<produkt>
 		<cislo>MN21031</cislo>
 		<ean>8436605121031</ean>
-		<dostupnost>30</dostupnost>
+		<dostupnost>28</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21031@305</cislo>
@@ -12948,12 +10648,12 @@
 	<produkt>
 		<cislo>MN21161</cislo>
 		<ean>8436605121161</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>36</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21185</cislo>
 		<ean>8436605121185</ean>
-		<dostupnost>18</dostupnost>
+		<dostupnost>17</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21192</cislo>
@@ -12963,17 +10663,17 @@
 	<produkt>
 		<cislo>MN21208</cislo>
 		<ean>8436605121208</ean>
-		<dostupnost>32</dostupnost>
+		<dostupnost>27</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21482</cislo>
 		<ean>8436605121482</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>60</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21598</cislo>
 		<ean>8436605121598</ean>
-		<dostupnost>26</dostupnost>
+		<dostupnost>13</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21604</cislo>
@@ -12983,7 +10683,7 @@
 	<produkt>
 		<cislo>MN21611</cislo>
 		<ean>8436605121611</ean>
-		<dostupnost>35</dostupnost>
+		<dostupnost>23</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21628</cislo>
@@ -12993,7 +10693,7 @@
 	<produkt>
 		<cislo>MN21635</cislo>
 		<ean>8436605121635</ean>
-		<dostupnost>88</dostupnost>
+		<dostupnost>82</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21635@305</cislo>
@@ -13003,12 +10703,12 @@
 	<produkt>
 		<cislo>MN21642</cislo>
 		<ean>8436605121642</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>97</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21659</cislo>
 		<ean>8436605121659</ean>
-		<dostupnost>97</dostupnost>
+		<dostupnost>96</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN21673</cislo>
@@ -13023,12 +10723,12 @@
 	<produkt>
 		<cislo>MN22038</cislo>
 		<ean>8436605122038</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>30</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN22328</cislo>
 		<ean>8436605122328</ean>
-		<dostupnost>25</dostupnost>
+		<dostupnost>14</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN22502</cislo>
@@ -13068,7 +10768,7 @@
 	<produkt>
 		<cislo>MN22588</cislo>
 		<ean>8436605122588</ean>
-		<dostupnost>52</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN22595</cislo>
@@ -13188,12 +10888,12 @@
 	<produkt>
 		<cislo>MN23776</cislo>
 		<ean>8436605123776</ean>
-		<dostupnost>35</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN23783</cislo>
 		<ean>8436605123783</ean>
-		<dostupnost>56</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN23790</cislo>
@@ -13213,32 +10913,32 @@
 	<produkt>
 		<cislo>MN24650</cislo>
 		<ean>8436605124650</ean>
-		<dostupnost>11</dostupnost>
+		<dostupnost>2</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN24759</cislo>
 		<ean>8436605124759</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>20</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN24766</cislo>
 		<ean>8436605124766</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>20</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN24773</cislo>
 		<ean>8436605124773</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>22</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN24803</cislo>
 		<ean>8436605124803</ean>
-		<dostupnost>43</dostupnost>
+		<dostupnost>41</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN24810</cislo>
 		<ean>8436605124810</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>5</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN24827</cislo>
@@ -13323,7 +11023,7 @@
 	<produkt>
 		<cislo>MN25176</cislo>
 		<ean>8436605125176</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>9</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25213</cislo>
@@ -13333,12 +11033,12 @@
 	<produkt>
 		<cislo>MN25220</cislo>
 		<ean>8436605125220</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>9</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25237</cislo>
 		<ean>8436605125237</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>52</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25244</cislo>
@@ -13348,27 +11048,27 @@
 	<produkt>
 		<cislo>MN25268</cislo>
 		<ean>8436605125268</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>12</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25275</cislo>
 		<ean>8436605125275</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>22</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25299</cislo>
 		<ean>8436605125299</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>18</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25343</cislo>
 		<ean>8436605125343</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>21</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25350</cislo>
 		<ean>8436605125350</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>22</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25374</cislo>
@@ -13383,7 +11083,7 @@
 	<produkt>
 		<cislo>MN25695</cislo>
 		<ean>8436605125695</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>63</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN25886</cislo>
@@ -13398,7 +11098,7 @@
 	<produkt>
 		<cislo>MN26029</cislo>
 		<ean>8436605126029</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>26</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN26036</cislo>
@@ -13431,16 +11131,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>MN26173</cislo>
-		<ean>8436605126173</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN26180</cislo>
-		<ean>8436605126180</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>MN26197</cislo>
 		<ean>8436605126197</ean>
 		<dostupnost>0</dostupnost>
@@ -13448,7 +11138,7 @@
 	<produkt>
 		<cislo>MN27316</cislo>
 		<ean>8436605127316</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>26</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>MN27323</cislo>
@@ -13486,11 +11176,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>MN28245</cislo>
-		<ean>8436605128245</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>MN28689</cislo>
 		<ean>8436605128689</ean>
 		<dostupnost>0</dostupnost>
@@ -13513,61 +11198,6 @@
 	<produkt>
 		<cislo>MN28757</cislo>
 		<ean>8436605128757</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28801</cislo>
-		<ean>8436605128801</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28818</cislo>
-		<ean>8436605128818</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28825</cislo>
-		<ean>8436605128825</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28832</cislo>
-		<ean>8436605128832</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28849</cislo>
-		<ean>8436605128849</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28858</cislo>
-		<ean>8436605128856</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28863</cislo>
-		<ean>8436605128863</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28870</cislo>
-		<ean>8436605128870</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28887</cislo>
-		<ean>8436605128887</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28894</cislo>
-		<ean>8436605128894</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>MN28900</cislo>
-		<ean>8436605128900</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -13646,11 +11276,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>NMG60140CZSK@305</cislo>
-		<ean>3558380125112</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>NMG60160CZSK</cislo>
 		<ean>3558380126638</ean>
 		<dostupnost>100</dostupnost>
@@ -13676,18 +11301,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>ODGRWM0101CZ@305</cislo>
-		<ean>0841333134310</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>ODGRWM0201CZ</cislo>
 		<ean>841333139513</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>OS19381</cislo>
-		<ean>8595680302596</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -13726,11 +11341,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>PCI10032</cislo>
-		<ean>196214113213</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>PCI10035</cislo>
 		<ean>0196214113343</ean>
 		<dostupnost>0</dostupnost>
@@ -13753,11 +11363,6 @@
 	<produkt>
 		<cislo>PCI10037B</cislo>
 		<ean>0196214113664</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>PCI10039A</cislo>
-		<ean>0196214113893</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -14141,8 +11746,38 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>PCI10438-101</cislo>
+		<ean>0196214143906</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>PCI10439-101</cislo>
 		<ean>0196214143999</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10440-120</cislo>
+		<ean>0196214165830</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10443-108</cislo>
+		<ean>0196214144248</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10444-103</cislo>
+		<ean>0196214144415</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10444-109</cislo>
+		<ean>0196214144491</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10446-101</cislo>
+		<ean>0196214144590</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -14176,6 +11811,16 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>PCI10452-108</cislo>
+		<ean>0196214145443</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10452-114</cislo>
+		<ean>0196214145504</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>PCI10463-108</cislo>
 		<ean>0196214147096</ean>
 		<dostupnost>0</dostupnost>
@@ -14206,6 +11851,11 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>PCI10469-101</cislo>
+		<ean>0196214147423</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>PCI10617-1</cislo>
 		<ean>0196214111172</ean>
 		<dostupnost>0</dostupnost>
@@ -14228,6 +11878,11 @@
 	<produkt>
 		<cislo>PCI10680-101</cislo>
 		<ean>0196214155985</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>PCI10726-101</cislo>
+		<ean>0196214159297</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -14346,11 +12001,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>PMI5040PP</cislo>
-		<ean>7290112473578</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>PMI5065PAWM</cislo>
 		<ean>7290112474186</ean>
 		<dostupnost>35</dostupnost>
@@ -14363,7 +12013,7 @@
 	<produkt>
 		<cislo>PMI9000PW</cislo>
 		<ean>7290112472366</ean>
-		<dostupnost>51</dostupnost>
+		<dostupnost>30</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>POGIM01CZ</cislo>
@@ -14378,7 +12028,7 @@
 	<produkt>
 		<cislo>PTMATBOM01CZ</cislo>
 		<ean>8595680304026</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>PTSMMCLASHRAID03CS</cislo>
@@ -14406,16 +12056,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>RB27332-02</cislo>
-		<ean>810155273323</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>RB27430</cislo>
-		<ean>810155274290</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>RB27578</cislo>
 		<ean>810155275778</ean>
 		<dostupnost>0</dostupnost>
@@ -14436,38 +12076,8 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>RB27593</cislo>
-		<ean>810155275938</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>RB27594</cislo>
-		<ean>810155275945</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>RB27595</cislo>
 		<ean>810155275952</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>RB27600</cislo>
-		<ean>810155276003</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>RB27601</cislo>
-		<ean>810155276010</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>RB27602</cislo>
-		<ean>810155276027</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>RB27603</cislo>
-		<ean>810155276034</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -14608,7 +12218,7 @@
 	<produkt>
 		<cislo>REME01CZ</cislo>
 		<ean>8595680301797</ean>
-		<dostupnost>33</dostupnost>
+		<dostupnost>10</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>REME01CZ@305</cislo>
@@ -14648,7 +12258,7 @@
 	<produkt>
 		<cislo>RESF01CZ</cislo>
 		<ean>5902650617100</ean>
-		<dostupnost>30</dostupnost>
+		<dostupnost>29</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>REZO01CZ</cislo>
@@ -14718,7 +12328,7 @@
 	<produkt>
 		<cislo>RU5378</cislo>
 		<ean>082686053785</ean>
-		<dostupnost>41</dostupnost>
+		<dostupnost>40</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>RU640838-M</cislo>
@@ -14811,11 +12421,6 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>SCNJC01CS@305</cislo>
-		<ean>3558387002744</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>SCOAR01CS</cislo>
 		<ean>3558380105701</ean>
 		<dostupnost>100</dostupnost>
@@ -14828,7 +12433,7 @@
 	<produkt>
 		<cislo>SCOHOP01</cislo>
 		<ean>3558380109129</ean>
-		<dostupnost>65</dostupnost>
+		<dostupnost>61</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>SCOOT01CSSK</cislo>
@@ -14903,7 +12508,7 @@
 	<produkt>
 		<cislo>SJG12157</cislo>
 		<ean>8594054912157</ean>
-		<dostupnost>71</dostupnost>
+		<dostupnost>58</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>SJG12157@305</cislo>
@@ -14953,7 +12558,7 @@
 	<produkt>
 		<cislo>SJG1503</cislo>
 		<ean>8594054913505</ean>
-		<dostupnost>2</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>SMDPGHON002CZ</cislo>
@@ -14968,7 +12573,7 @@
 	<produkt>
 		<cislo>SMPURASS001CZ</cislo>
 		<ean>8595680302831</ean>
-		<dostupnost>95</dostupnost>
+		<dostupnost>74</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>SMPURASS001CZ@305</cislo>
@@ -14981,14 +12586,9 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>SMSKT01CS@305</cislo>
-		<ean>0807658001539</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>SMSKT02CZ</cislo>
 		<ean>0807658001645</ean>
-		<dostupnost>1</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>SMTKE01CS</cislo>
@@ -15013,7 +12613,7 @@
 	<produkt>
 		<cislo>SU612921</cislo>
 		<ean>5600983616981</ean>
-		<dostupnost>90</dostupnost>
+		<dostupnost>82</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>SWH0302EN</cislo>
@@ -15087,7 +12687,7 @@
 	</produkt>
 	<produkt>
 		<cislo>SWH0902MKT</cislo>
-		<ean></ean>
+		<ean>8591002003332</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -15131,6 +12731,21 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>SWH1102</cislo>
+		<ean>841333146436</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>SWH1104</cislo>
+		<ean>841333146450</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>SWH1106</cislo>
+		<ean>841333146467</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>SWHA017</cislo>
 		<ean>841333141356</ean>
 		<dostupnost>0</dostupnost>
@@ -15157,7 +12772,7 @@
 	</produkt>
 	<produkt>
 		<cislo>SWHTS1101</cislo>
-		<ean></ean>
+		<ean>841333147167</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -15251,6 +12866,21 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
+		<cislo>SWOP1102</cislo>
+		<ean>841333147099</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>SWOP1103</cislo>
+		<ean>841333147105</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>SWOP1104</cislo>
+		<ean>841333147112</ean>
+		<dostupnost>0</dostupnost>
+	</produkt>
+	<produkt>
 		<cislo>TBGB0501CZ</cislo>
 		<ean>794179663929</ean>
 		<dostupnost>0</dostupnost>
@@ -15318,7 +12948,7 @@
 	<produkt>
 		<cislo>TREZT03</cislo>
 		<ean>0745240182795</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>UP15772</cislo>
@@ -15328,11 +12958,6 @@
 	<produkt>
 		<cislo>UP15774</cislo>
 		<ean>074427157746</ean>
-		<dostupnost>66</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP15876</cislo>
-		<ean>074427158767</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -15391,16 +13016,6 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>UP16083</cislo>
-		<ean>0074427160838</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16084</cislo>
-		<ean>0074427160845</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>UP16109</cislo>
 		<ean>074427161095</ean>
 		<dostupnost>100</dostupnost>
@@ -15438,11 +13053,6 @@
 	<produkt>
 		<cislo>UP16609</cislo>
 		<ean>074427166090</ean>
-		<dostupnost>18</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16663</cislo>
-		<ean>074427166632</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -15461,11 +13071,6 @@
 		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>UP16734</cislo>
-		<ean>074427167349</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>UP16735</cislo>
 		<ean>074427167356</ean>
 		<dostupnost>0</dostupnost>
@@ -15478,16 +13083,6 @@
 	<produkt>
 		<cislo>UP16737</cislo>
 		<ean>074427167370</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16739</cislo>
-		<ean>074427167394</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16741</cislo>
-		<ean>074427167417</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
@@ -15506,26 +13101,6 @@
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
-		<cislo>UP16760</cislo>
-		<ean>074427167608</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16761</cislo>
-		<ean>074427167615</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16762</cislo>
-		<ean>074427167622</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16763</cislo>
-		<ean>074427167639</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
 		<cislo>UP16764</cislo>
 		<ean>074427167646</ean>
 		<dostupnost>0</dostupnost>
@@ -15533,22 +13108,12 @@
 	<produkt>
 		<cislo>UP16823</cislo>
 		<ean>074427168230</ean>
-		<dostupnost>100</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16842</cislo>
-		<ean>074427168421</ean>
-		<dostupnost>0</dostupnost>
-	</produkt>
-	<produkt>
-		<cislo>UP16921</cislo>
-		<ean>074427169213</ean>
 		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>UP16922</cislo>
 		<ean>074427169220</ean>
-		<dostupnost>100</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>UP81693</cislo>
@@ -15558,12 +13123,12 @@
 	<produkt>
 		<cislo>UP83423</cislo>
 		<ean>074427834234</ean>
-		<dostupnost>39</dostupnost>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ZK01CZ</cislo>
 		<ean>8594054919958</ean>
-		<dostupnost>0</dostupnost>
+		<dostupnost>100</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ZKFB01CZ</cislo>
@@ -15664,6 +13229,11 @@
 		<cislo>ZYGSWST0101CSSK</cislo>
 		<ean>3558380130154</ean>
 		<dostupnost>100</dostupnost>
+	</produkt>
+	<produkt>
+		<cislo>ZYGTMNTST0101CSSK</cislo>
+		<ean>3558387015157</ean>
+		<dostupnost>0</dostupnost>
 	</produkt>
 	<produkt>
 		<cislo>ZZ3525107</cislo>
